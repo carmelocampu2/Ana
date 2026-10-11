@@ -1,16 +1,34 @@
-# Test Anatomía Patológica · Murcia — PWA 1.0
+# Anatomía Patológica Murcia · PWA 1.1 — dificultad alta
 
-Aplicación web instalable desde Chrome en Android, sin Android Studio ni APK. Contiene 108 preguntas originales de práctica extraídas del prototipo 0.9, 20 por sesión, corrección al final, repaso de errores, marcadores, modo mixto, materias, entrenamiento adaptativo, puntuación opcional con penalización, historial y seguimiento diario.
+128 preguntas originales: 108 de práctica general + 20 nuevas de dificultad alta, con casos prácticos y distractores próximos. **No se han incorporado enunciados literales de convocatorias oficiales**: solo se han podido confirmar plantillas oficiales de respuestas, enlazadas en fuentes-oficiales.html.
 
-## Publicación desde móvil, sin Termux
-1. Descomprime el ZIP. Para facilitar la subida, los archivos web están todos en la raíz, sin subcarpetas.
-2. En GitHub, abre tu repositorio, selecciona **Add file → Upload files**, y sube los ocho archivos de esta carpeta: `index.html`, `app.js`, `styles.css`, `questions.json`, `manifest.webmanifest`, `sw.js`, `icon-192.png`, `icon-512.png`. Puedes seleccionar varios archivos de una vez desde Chrome; si no, hazlo en dos o más tandas. `README.md` es opcional.
-3. Confirma los cambios. Ve a **Settings → Pages → Build and deployment**, selecciona **Deploy from a branch**, rama **main**, carpeta **/(root)**, y guarda.
-4. Espera a que GitHub Pages publique la web. Abre `https://TU-USUARIO.github.io/AnatomiaPatologicaMurcia/` (respeta las mayúsculas del nombre del repositorio).
-5. En Chrome para Android, abre el menú ⋮ y elige **Instalar aplicación** o **Añadir a pantalla de inicio**. El servicio offline se instala al cargar la web por primera vez.
+## Publicación en GitHub Pages
+Subir el contenido de este ZIP a la raíz de la rama main del repositorio donde está alojada la PWA. Reemplazar los archivos anteriores. GitHub Pages actualizará la web; el service worker tiene nueva versión de caché.
 
-Si el repositorio es privado, comprueba la disponibilidad de GitHub Pages según el plan de tu cuenta; en GitHub Free, normalmente la publicación de Pages requiere un repositorio público. Si lo haces público, los archivos y preguntas serán visibles para cualquiera. Puedes crear un repositorio público separado solo con estos archivos web; no contiene datos personales ni tu historial.
+## Aviso
+La modalidad avanzada contiene 20 preguntas en total, con 3 de legislación autonómica; si se filtra por materia habrá menos de 20. El contenido no sustituye el estudio del temario ni se ha sometido a revisión académica externa.
 
-**Importante:** abrir `index.html` como archivo local (`file://`) no activa el modo instalable ni la carga de preguntas. Requiere alojamiento HTTPS, como GitHub Pages. El progreso se guarda solo en el navegador/dispositivo mediante localStorage; si borras los datos de Chrome, se pierde. No hay sincronización ni copias de seguridad.
 
-**Calidad del contenido:** preguntas originales de práctica, no exámenes oficiales; algunas correspondencias de temario aún están pendientes de verificar y la legislación debe contrastarse con textos vigentes y bases de convocatoria. No se ha probado la instalación en un teléfono real.
+## Versión integrada PWA 1.2
+- Conserva los 128 ejercicios originales y los test de 20 preguntas con corrección final.
+- Añade `convocatorias.html` con filtro por comunidad y 9 registros del catálogo V4.
+- Incluye `convocatorias-oficiales.json` y `respuestas-referencia.json`.
+- Los enlaces son referencias a revisar; no se han descargado cuadernillos ni transcrito exámenes completos.
+- No se ha generado un APK: esta aplicación es una PWA para alojar mediante HTTPS.
+
+
+## Versión 1.3
+Simulacro avanzado y módulo de importación local de preguntas oficiales verificadas. Véase GUIA_IMPORTACION.md. No se han añadido preguntas literales oficiales sin cotejo de cuadernillo y plantilla.
+
+## Versión 1.8
+99 preguntas de entrenamiento originales en repaso-revisado.html. No son preguntas oficiales.
+
+## Versión 1.8
+99 preguntas de entrenamiento originales en repaso-revisado.html. No son preguntas oficiales.
+
+## Versión 1.8
+99 preguntas de entrenamiento originales en repaso-revisado.html. No son preguntas oficiales.
+
+
+## Versión 2.0
+Consulta NOVEDADES_V20.md. El historial se almacena localmente; realiza copias JSON.

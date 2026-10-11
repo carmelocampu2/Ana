@@ -12,7 +12,9 @@
     "correct": 1,
     "explanation": "La ley regula las acciones relacionadas con la protección de la salud y la ordenación de los servicios sanitarios cuya responsabilidad corresponde a la Región de Murcia.",
     "source": "Ley 4/1994, art. 1 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@
     "correct": 1,
     "explanation": "El artículo 2 incluye, entre otros principios, la concepción integral de la salud, la universalización de la asistencia y la igualdad efectiva en el acceso.",
     "source": "Ley 4/1994, art. 2 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@
     "correct": 0,
     "explanation": "La ley atribuye al Servicio Murciano de Salud funciones de administración y gestión de servicios, prestaciones y programas sanitarios encomendados.",
     "source": "Ley 4/1994, arts. 20 y siguientes · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@
     "correct": 0,
     "explanation": "La ley dedica un apartado a la ordenación sanitaria e incluye el mapa sanitario, las áreas de salud y las zonas básicas de salud.",
     "source": "Ley 4/1994, Título III · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@
     "correct": 1,
     "explanation": "La Ley 5/2001 regula aspectos esenciales de la relación jurídica del personal estatutario con el Servicio Murciano de Salud.",
     "source": "Ley 5/2001 · BOE texto consolidado, última actualización indicada: 27/02/2025",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@
     "correct": 0,
     "explanation": "Es una norma autonómica específica sobre personal estatutario del Servicio Murciano de Salud; debe estudiarse junto con la normativa básica estatal que corresponda.",
     "source": "Ley 5/2001 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@
     "correct": 2,
     "explanation": "La ley ha tenido modificaciones. El BOE ofrece un texto consolidado informativo; para efectos jurídicos deben comprobarse las publicaciones oficiales y las bases de la convocatoria.",
     "source": "BOE · Ley 5/2001, texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 8,
@@ -117,7 +131,9 @@
     "correct": 0,
     "explanation": "Su título identifica su objeto: los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia.",
     "source": "Ley 3/2009, de 11 de mayo · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 9,
@@ -132,7 +148,9 @@
     "correct": 0,
     "explanation": "Es una ley de la Comunidad Autónoma de la Región de Murcia. Debe distinguirse de las normas estatales básicas y de las normas de otras comunidades.",
     "source": "Ley 3/2009 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 10,
@@ -147,7 +165,9 @@
     "correct": 1,
     "explanation": "La norma ha tenido modificaciones y contiene títulos y capítulos específicos; el estudio debe basarse en una versión vigente y en el programa oficial.",
     "source": "Ley 3/2009 · BOE texto consolidado, última actualización indicada: 23/11/2018",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 11,
@@ -162,7 +182,9 @@
     "correct": 0,
     "explanation": "El Estatuto de Autonomía es la norma institucional básica de la Comunidad Autónoma, sin perjuicio de la Constitución y del resto del ordenamiento.",
     "source": "Ley Orgánica 4/1982, Estatuto de Autonomía para la Región de Murcia",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 12,
@@ -177,7 +199,9 @@
     "correct": 1,
     "explanation": "BORM significa Boletín Oficial de la Región de Murcia. Es una fuente clave para verificar la publicación oficial de normas autonómicas.",
     "source": "Boletín Oficial de la Región de Murcia (BORM)",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 13,
@@ -192,7 +216,9 @@
     "correct": 0,
     "explanation": "El BORM es el diario oficial autonómico. Las versiones consolidadas del BOE son útiles para estudiar, pero se deben contrastar con las publicaciones oficiales.",
     "source": "BORM · fuente oficial autonómica",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 14,
@@ -207,7 +233,9 @@
     "correct": 0,
     "explanation": "La ley contempla el Plan de Salud dentro de la planificación sanitaria regional.",
     "source": "Ley 4/1994, Título II · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 15,
@@ -222,7 +250,9 @@
     "correct": 0,
     "explanation": "La ley regula el Consejo de Salud de la Región de Murcia y órganos de participación vinculados a la ordenación sanitaria.",
     "source": "Ley 4/1994, art. 11 y Título III · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 16,
@@ -237,7 +267,9 @@
     "correct": 0,
     "explanation": "La ley regula las áreas de salud y las zonas básicas de salud como elementos de la ordenación sanitaria regional.",
     "source": "Ley 4/1994, Título III · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 17,
@@ -252,7 +284,9 @@
     "correct": 1,
     "explanation": "La ficha del BOE refleja modificaciones hasta el 27 de febrero de 2025. Antes de un examen hay que comprobar si existen cambios posteriores y qué versión exige la convocatoria.",
     "source": "BOE · Ley 5/2001, historial de modificaciones",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 18,
@@ -267,7 +301,9 @@
     "correct": 0,
     "explanation": "La Ley 5/2001 es la norma autonómica específica del personal estatutario del Servicio Murciano de Salud, sin sustituir la normativa básica estatal que también resulte aplicable.",
     "source": "Ley 5/2001 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 19,
@@ -282,7 +318,9 @@
     "correct": 0,
     "explanation": "El programa y las bases oficiales de cada convocatoria determinan el contenido exigible. Esta app debe registrar convocatoria y fecha de revisión del banco.",
     "source": "Bases oficiales de la convocatoria correspondiente",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 20,
@@ -297,7 +335,9 @@
     "correct": 0,
     "explanation": "Las tres normas citadas son leyes de la Región de Murcia relacionadas, respectivamente, con la ordenación sanitaria, el personal estatutario del SMS y los derechos y deberes de los usuarios.",
     "source": "BOE/BORM · legislación de la Región de Murcia",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 21,
@@ -312,7 +352,9 @@
     "correct": 0,
     "explanation": "La información institucional de MurciaSalud identifica los derechos relacionados con la intimidad y la confidencialidad como uno de los ámbitos protegidos por la ley.",
     "source": "Ley 3/2009 · BOE consolidado; MurciaSalud",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 22,
@@ -327,7 +369,9 @@
     "correct": 0,
     "explanation": "El portal MurciaSalud agrupa derechos en materia de información y participación sanitaria entre los ámbitos reconocidos.",
     "source": "MurciaSalud · resumen de la Ley 3/2009",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 23,
@@ -342,7 +386,9 @@
     "correct": 0,
     "explanation": "La autonomía de la decisión figura entre los ámbitos de derechos descritos por MurciaSalud al presentar esta ley.",
     "source": "MurciaSalud · resumen de la Ley 3/2009",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 24,
@@ -357,7 +403,9 @@
     "correct": 0,
     "explanation": "La documentación sanitaria es uno de los ámbitos de derechos enumerados en el portal sanitario regional.",
     "source": "MurciaSalud · resumen de la Ley 3/2009",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 25,
@@ -372,7 +420,9 @@
     "correct": 1,
     "explanation": "El BOE indica que el texto consolidado es informativo y que, para efectos jurídicos, debe consultarse la publicación oficial. La ficha consultada indica actualización de 24/07/2025.",
     "source": "BOE · Ley 4/1994, texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 26,
@@ -387,7 +437,9 @@
     "correct": 0,
     "explanation": "El índice de la Ley 5/2001 incluye el Director Gerente dentro del capítulo sobre órganos superiores de dirección y gestión del personal estatutario.",
     "source": "Ley 5/2001, capítulo II · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 27,
@@ -402,7 +454,9 @@
     "correct": 0,
     "explanation": "El capítulo III de la Ley 5/2001 contempla planificación general de recursos, planes de ordenación e instrumentos de ordenación.",
     "source": "Ley 5/2001, capítulo III · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 28,
@@ -417,7 +471,9 @@
     "correct": 0,
     "explanation": "El artículo 11 de la Ley 5/2001 se titula Registro de Personal.",
     "source": "Ley 5/2001, art. 11 · BOE texto consolidado",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 29,
@@ -432,7 +488,9 @@
     "correct": 0,
     "explanation": "Registrar la publicación y su fecha permite verificar la redacción aplicable y actualizar el banco de preguntas.",
     "source": "Método de estudio recomendado · contrastar con BORM",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 30,
@@ -447,7 +505,9 @@
     "correct": 1,
     "explanation": "La versión normativa aplicable debe determinarse conforme a las bases y a las publicaciones oficiales pertinentes; el texto consolidado del BOE es informativo.",
     "source": "Bases de la convocatoria y publicaciones oficiales",
-    "kind": "legislation"
+    "kind": "legislation",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 31,
@@ -462,7 +522,9 @@
     "correct": 0,
     "explanation": "Los neumocitos tipo I forman un epitelio plano simple muy delgado que favorece la difusión de gases.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 32,
@@ -477,7 +539,9 @@
     "correct": 1,
     "explanation": "El formol tamponado al 10 % se utiliza habitualmente para preservar la morfología tisular; sigue los protocolos del laboratorio.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 33,
@@ -492,7 +556,9 @@
     "correct": 1,
     "explanation": "La deshidratación sustituye progresivamente el agua del tejido, normalmente mediante alcoholes de concentración creciente.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 34,
@@ -507,7 +573,9 @@
     "correct": 0,
     "explanation": "La parafina aporta soporte al tejido para obtener secciones finas tras el procesamiento adecuado.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 35,
@@ -522,7 +590,9 @@
     "correct": 0,
     "explanation": "El micrótomo permite cortar secciones delgadas de bloques incluidos en parafina.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 36,
@@ -537,7 +607,9 @@
     "correct": 0,
     "explanation": "La hematoxilina tiñe de azul-violeta estructuras ácidas, especialmente la cromatina nuclear.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 37,
@@ -552,7 +624,9 @@
     "correct": 0,
     "explanation": "La fijación con el método adecuado ayuda a conservar la morfología celular.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 38,
@@ -567,7 +641,9 @@
     "correct": 1,
     "explanation": "Las precauciones estándar se aplican a muestras biológicas y se complementan con medidas específicas de evaluación de riesgos.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 39,
@@ -582,7 +658,9 @@
     "correct": 0,
     "explanation": "El anticuerpo primario reconoce un antígeno específico; la señal se visualiza mediante un sistema de detección.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 40,
@@ -597,7 +675,9 @@
     "correct": 1,
     "explanation": "La trazabilidad permite vincular la muestra, la solicitud, los procedimientos y los resultados.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 41,
@@ -612,7 +692,9 @@
     "correct": 2,
     "explanation": "El sistema nervioso central está constituido por el encéfalo y la médula espinal.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 42,
@@ -627,7 +709,9 @@
     "correct": 1,
     "explanation": "La penetración del fijador depende, entre otros factores, del tamaño y la naturaleza de la muestra.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 43,
@@ -642,7 +726,9 @@
     "correct": 0,
     "explanation": "La técnica PAS evidencia componentes ricos en carbohidratos, como glucógeno y ciertas membranas basales.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 44,
@@ -657,7 +743,9 @@
     "correct": 0,
     "explanation": "La adecuación incluye identificación, conservación y representatividad suficientes.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 45,
@@ -672,7 +760,9 @@
     "correct": 0,
     "explanation": "El objetivo es una lente fundamental para formar la imagen de la muestra.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 46,
@@ -687,7 +777,9 @@
     "correct": 0,
     "explanation": "El estudio intraoperatorio por congelación puede proporcionar información rápida en casos seleccionados.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 47,
@@ -702,7 +794,9 @@
     "correct": 0,
     "explanation": "Un control positivo con expresión conocida ayuda a verificar el funcionamiento de la tinción.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 48,
@@ -717,7 +811,9 @@
     "correct": 1,
     "explanation": "Las discrepancias de identificación deben gestionarse y documentarse según el procedimiento establecido.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 49,
@@ -732,7 +828,9 @@
     "correct": 0,
     "explanation": "La descalcificación reduce el componente mineral para permitir el corte.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 50,
@@ -747,7 +845,9 @@
     "correct": 1,
     "explanation": "La gestión documentada permite valorar el impacto y tomar medidas correctoras.",
     "source": "Pregunta original de práctica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 51,
@@ -762,7 +862,9 @@
     "correct": 0,
     "explanation": "La autonomía reconoce la capacidad de decidir tras recibir información adecuada.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 1 · Bioética",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 52,
@@ -777,7 +879,9 @@
     "correct": 1,
     "explanation": "La confidencialidad exige restringir el acceso a los datos sanitarios.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 1 · Bioética",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 53,
@@ -792,7 +896,9 @@
     "correct": 1,
     "explanation": "La no maleficencia se expresa como la obligación de no causar daños evitables.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 1 · Bioética",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 54,
@@ -807,7 +913,9 @@
     "correct": 1,
     "explanation": "La notificación y el protocolo de salud laboral permiten evaluar el incidente.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 2 · Riesgos laborales",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 55,
@@ -822,7 +930,9 @@
     "correct": 0,
     "explanation": "La ergonomía busca adaptar las tareas y reducir sobrecargas.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 2 · Riesgos laborales",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 56,
@@ -837,7 +947,9 @@
     "correct": 0,
     "explanation": "Las fichas de datos de seguridad recogen riesgos y medidas preventivas.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 2 · Riesgos laborales",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 57,
@@ -852,7 +964,9 @@
     "correct": 0,
     "explanation": "La asepsia comprende medidas de prevención de la contaminación.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 3 · Infecciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 58,
@@ -867,7 +981,9 @@
     "correct": 1,
     "explanation": "La esterilización tiene un objetivo más amplio que la desinfección.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 3 · Infecciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 59,
@@ -882,7 +998,9 @@
     "correct": 0,
     "explanation": "La higiene de manos es una medida esencial de prevención.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 3 · Infecciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 60,
@@ -897,7 +1015,9 @@
     "correct": 1,
     "explanation": "La segregación sigue categorías de riesgo y normativa aplicable.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 4 · Residuos",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 61,
@@ -912,7 +1032,9 @@
     "correct": 0,
     "explanation": "Los punzantes requieren contenedores homologados y gestión específica.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 4 · Residuos",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 62,
@@ -927,7 +1049,9 @@
     "correct": 0,
     "explanation": "La imagen digital permite documentación y revisión cuando se integra adecuadamente.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 5 · Imagen digital",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 63,
@@ -942,7 +1066,9 @@
     "correct": 0,
     "explanation": "Los metadatos permiten relacionar la imagen con la muestra correcta.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 5 · Imagen digital",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 64,
@@ -957,7 +1083,9 @@
     "correct": 0,
     "explanation": "La trazabilidad vincula etapas, identificadores y registros.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 6 · Trazabilidad",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 65,
@@ -972,7 +1100,9 @@
     "correct": 0,
     "explanation": "SNOMED CT es una terminología clínica para representar conceptos sanitarios.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 6 · Trazabilidad",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 66,
@@ -987,7 +1117,9 @@
     "correct": 0,
     "explanation": "La seguridad del paciente exige gestionar las discrepancias de identificación.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 6 · Trazabilidad",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 67,
@@ -1002,7 +1134,9 @@
     "correct": 0,
     "explanation": "Una disolución tampón amortigua variaciones de pH en condiciones determinadas.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 7 · Disoluciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 68,
@@ -1017,7 +1151,9 @@
     "correct": 0,
     "explanation": "El pH expresa acidez o basicidad en una escala logarítmica.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 7 · Disoluciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 69,
@@ -1032,7 +1168,9 @@
     "correct": 0,
     "explanation": "La dilución reduce concentración sin añadir soluto.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 7 · Disoluciones",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 70,
@@ -1047,7 +1185,9 @@
     "correct": 0,
     "explanation": "La biopsia permite estudiar tejido con fines diagnósticos.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 8 · Histotecnología",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 71,
@@ -1062,7 +1202,9 @@
     "correct": 0,
     "explanation": "La inclusión permite obtener secciones reproducibles mediante microtomía.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 8 · Histotecnología",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 72,
@@ -1077,7 +1219,9 @@
     "correct": 0,
     "explanation": "Los artefactos pueden aparecer durante obtención, procesado o corte.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 8 · Histotecnología",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 73,
@@ -1092,7 +1236,9 @@
     "correct": 0,
     "explanation": "La autopsia clínica aporta información anatomopatológica y correlación clínico-patológica.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 9 · Autopsia clínica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 74,
@@ -1107,7 +1253,9 @@
     "correct": 0,
     "explanation": "La protección del personal y la trazabilidad forman parte de los procedimientos.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 9 · Autopsia clínica",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 75,
@@ -1122,7 +1270,9 @@
     "correct": 0,
     "explanation": "La codificación permite separar la identificación directa del material de investigación.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 10 · Biobancos",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 76,
@@ -1137,7 +1287,9 @@
     "correct": 0,
     "explanation": "La conservación controlada ayuda a preservar la utilidad de las muestras.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 10 · Biobancos",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 77,
@@ -1152,7 +1304,9 @@
     "correct": 0,
     "explanation": "La citometría analiza señales de partículas al atravesar un sistema de detección.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 10 · Biobancos",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 78,
@@ -1167,7 +1321,9 @@
     "correct": 0,
     "explanation": "La evaluación requiere identificación fiable y coordinación con el equipo clínico.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 11 · Trasplantes",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 79,
@@ -1182,7 +1338,9 @@
     "correct": 0,
     "explanation": "Los cortes por congelación permiten evaluaciones rápidas en situaciones seleccionadas.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 11 · Trasplantes",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 80,
@@ -1197,7 +1355,9 @@
     "correct": 0,
     "explanation": "Un sistema de información facilita registros y seguimiento del circuito diagnóstico.",
     "source": "Pregunta original de práctica · Temario específico SMS 2016, Tema 6 · Trazabilidad",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 81,
@@ -1212,7 +1372,9 @@
     "correct": 0,
     "explanation": "Los fibroblastos producen componentes de la matriz extracelular, incluido colágeno.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 82,
@@ -1227,7 +1389,9 @@
     "correct": 0,
     "explanation": "La fijación busca conservar la morfología y minimizar la autólisis.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 83,
@@ -1242,7 +1406,9 @@
     "correct": 0,
     "explanation": "El aclaramiento permite la sustitución del agente deshidratante por un medio compatible.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 84,
@@ -1257,7 +1423,9 @@
     "correct": 0,
     "explanation": "El estado del filo influye en la calidad del corte histológico.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 85,
@@ -1272,7 +1440,9 @@
     "correct": 0,
     "explanation": "La hematoxilina-eosina es la tinción histológica de rutina.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 86,
@@ -1287,7 +1457,9 @@
     "correct": 0,
     "explanation": "Las técnicas de plata pueden demostrar redes de fibras reticulares.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 87,
@@ -1302,7 +1474,9 @@
     "correct": 0,
     "explanation": "Ayuda a reconocer tinciones de fondo o reacciones inespecíficas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 88,
@@ -1317,7 +1491,9 @@
     "correct": 0,
     "explanation": "El diafragma participa en el control de la iluminación.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 89,
@@ -1332,7 +1508,9 @@
     "correct": 0,
     "explanation": "La microscopía electrónica de transmisión utiliza secciones ultrafinas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 90,
@@ -1347,7 +1525,9 @@
     "correct": 0,
     "explanation": "La PCR amplifica regiones específicas de ADN y, con pasos adicionales, puede analizar ARN.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 91,
@@ -1362,7 +1542,9 @@
     "correct": 0,
     "explanation": "Los cromosomas contienen ADN asociado a proteínas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 92,
@@ -1377,7 +1559,9 @@
     "correct": 0,
     "explanation": "La citología evalúa células aisladas o agrupadas y su contexto.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 93,
@@ -1392,7 +1576,9 @@
     "correct": 0,
     "explanation": "El sistema Bethesda estandariza categorías de informes citológicos cervicales.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 94,
@@ -1407,7 +1593,9 @@
     "correct": 0,
     "explanation": "PAAF designa una técnica de obtención de material citológico.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 95,
@@ -1422,7 +1610,9 @@
     "correct": 0,
     "explanation": "La citología en medio líquido utiliza sistemas específicos de conservación y preparación.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 96,
@@ -1437,7 +1627,9 @@
     "correct": 0,
     "explanation": "Permite preparar muestras de líquidos con baja celularidad.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 97,
@@ -1452,7 +1644,9 @@
     "correct": 0,
     "explanation": "El lavado broncoalveolar puede estudiarse mediante técnicas citológicas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 98,
@@ -1467,7 +1661,9 @@
     "correct": 0,
     "explanation": "La citología urinaria examina, entre otras, células del urotelio.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 99,
@@ -1482,7 +1678,9 @@
     "correct": 0,
     "explanation": "La identificación y trazabilidad son esenciales desde la recepción.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 100,
@@ -1497,7 +1695,9 @@
     "correct": 0,
     "explanation": "La tinción de Papanicolaou permite valorar detalles nucleares y citoplasmáticos.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 101,
@@ -1512,7 +1712,9 @@
     "correct": 0,
     "explanation": "La valoración citomorfológica considera rasgos nucleares, citoplasmáticos y arquitecturales.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 102,
@@ -1527,7 +1729,9 @@
     "correct": 0,
     "explanation": "La infección persistente por determinados tipos de VPH se asocia a lesiones cervicales.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 103,
@@ -1542,7 +1746,9 @@
     "correct": 0,
     "explanation": "Los riñones filtran la sangre y participan en la formación de orina.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 104,
@@ -1557,7 +1763,9 @@
     "correct": 0,
     "explanation": "El líquido pleural puede procesarse para estudio citológico.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 105,
@@ -1572,7 +1780,9 @@
     "correct": 0,
     "explanation": "Los anticuerpos primarios reconocen antígenos diana.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 106,
@@ -1587,7 +1797,9 @@
     "correct": 0,
     "explanation": "La identificación y recepción forman parte de la fase preanalítica.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 107,
@@ -1602,7 +1814,9 @@
     "correct": 0,
     "explanation": "La digitalización de portaobjetos permite visualizar imágenes microscópicas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
   },
   {
     "id": 108,
@@ -1617,6 +1831,348 @@
     "correct": 0,
     "explanation": "La formación continuada contribuye a mantener competencias y buenas prácticas.",
     "source": "Pregunta original de práctica · Área técnica · correspondencia exacta con el temario pendiente de verificar",
-    "kind": "technical"
+    "kind": "technical",
+    "difficulty": "basic",
+    "origin": "original"
+  },
+  {
+    "id": 109,
+    "topic": "Procesamiento histológico",
+    "question": "Una biopsia llega con fijación insuficiente y muestra autólisis central. ¿Cuál es la interpretación más adecuada?",
+    "options": [
+      "La autólisis puede dificultar la valoración morfológica y no se corrige por completo con la inclusión posterior",
+      "La inclusión en parafina recupera siempre la morfología perdida",
+      "El aumento del tiempo de tinción revierte la autólisis",
+      "El problema solo afecta al color del casete"
+    ],
+    "correct": 0,
+    "explanation": "La fijación tardía o insuficiente puede causar alteraciones irreversibles en el tejido.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 110,
+    "topic": "Procesamiento histológico",
+    "question": "En un bloque de parafina se observan zonas blandas y cortes irregulares tras el procesado. ¿Qué incidencia debe considerarse?",
+    "options": [
+      "Exceso de hematoxilina",
+      "Deshidratación o infiltración incompletas",
+      "Uso de un objetivo de bajo aumento",
+      "Montaje con cubreobjetos demasiado fino"
+    ],
+    "correct": 1,
+    "explanation": "La infiltración insuficiente produce bloques heterogéneos y problemas de corte.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 111,
+    "topic": "Microtomía",
+    "question": "Al cortar un bloque aparecen bandas alternas gruesas y finas de forma periódica. ¿Qué causa técnica es compatible con este artefacto?",
+    "options": [
+      "Fijación prolongada en formalina tamponada",
+      "Exceso de contraste del microscopio",
+      "Vibración o ajuste inadecuado del micrótomo",
+      "Uso de un colorante metacromático"
+    ],
+    "correct": 2,
+    "explanation": "Las vibraciones y la inestabilidad del conjunto pueden producir chatter o vibración en los cortes.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 112,
+    "topic": "Tinciones",
+    "question": "Una preparación H-E presenta núcleos muy pálidos y citoplasmas adecuados. ¿Qué etapa conviene revisar primero?",
+    "options": [
+      "Hematoxilina y su diferenciación/azulado",
+      "Desparafinado del casete antes de incluir",
+      "Temperatura del microtomo durante el archivo",
+      "Concentración de anticuerpo primario"
+    ],
+    "correct": 0,
+    "explanation": "El contraste nuclear depende de la hematoxilina y de pasos de diferenciación y azulado.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 113,
+    "topic": "Inmunohistoquímica",
+    "question": "En una serie inmunohistoquímica el control positivo conocido resulta negativo y las muestras también. ¿Qué conclusión es la más prudente?",
+    "options": [
+      "Todas las muestras son verdaderamente negativas",
+      "La técnica no es interpretable hasta revisar el procedimiento y controles",
+      "Debe informarse como ausencia de antígeno",
+      "Solo se modifica el diagnóstico de las muestras positivas"
+    ],
+    "correct": 1,
+    "explanation": "Un control positivo fallido invalida la interpretación de los negativos de la serie.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 114,
+    "topic": "Inmunohistoquímica",
+    "question": "Un anticuerpo muestra tinción difusa de fondo en muestra y control negativo. ¿Qué explicación es más probable?",
+    "options": [
+      "Expresión nuclear específica del antígeno",
+      "Mayor sensibilidad siempre deseable",
+      "Unión inespecífica o bloqueo/lavado insuficientes",
+      "Fijación correcta demostrada"
+    ],
+    "correct": 2,
+    "explanation": "La señal en el control negativo orienta a fondo o reactividad inespecífica.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 115,
+    "topic": "Citología",
+    "question": "En un líquido seroso con escasa celularidad se requiere concentrar las células para su observación. ¿Qué preparación es adecuada?",
+    "options": [
+      "Citocentrifugación validada",
+      "Descalcificación ácida prolongada",
+      "Inclusión directa sin concentración",
+      "Secado térmico intenso de toda la muestra"
+    ],
+    "correct": 0,
+    "explanation": "La citocentrifugación concentra células de líquidos en un área de observación.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 116,
+    "topic": "Citología cervical",
+    "question": "En una citología cervical aparecen células con alteraciones sugestivas de lesión escamosa. ¿Qué sistema de informe corresponde utilizar?",
+    "options": [
+      "Sistema TNM como única clasificación",
+      "Sistema Bethesda para citología cervical",
+      "Clasificación de Gleason",
+      "Escala de Glasgow"
+    ],
+    "correct": 1,
+    "explanation": "Bethesda es el sistema estandarizado para informar citología cervicovaginal.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 117,
+    "topic": "Biología molecular",
+    "question": "En una PCR diagnóstica el control negativo de extracción muestra amplificación. ¿Qué actuación es correcta?",
+    "options": [
+      "Aceptar la serie si el control positivo funciona",
+      "Interpretar la señal como normal en todos los ensayos",
+      "Investigar posible contaminación y no validar sin resolverla",
+      "Repetir únicamente la lectura microscópica"
+    ],
+    "correct": 2,
+    "explanation": "La amplificación del control negativo puede indicar contaminación y compromete la validez.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 118,
+    "topic": "Biología molecular",
+    "question": "Se obtiene ARN degradado de una muestra fijada. ¿Qué factor preanalítico puede haber contribuido?",
+    "options": [
+      "Demora y condiciones de conservación inadecuadas",
+      "Uso de etiquetas legibles",
+      "Registro correcto de la muestra",
+      "Control de calidad del equipo"
+    ],
+    "correct": 0,
+    "explanation": "El tiempo hasta estabilización y la conservación condicionan la integridad de ácidos nucleicos.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 119,
+    "topic": "Calidad y trazabilidad",
+    "question": "Dos casetes llegan con la misma identificación pero proceden de pacientes distintos. ¿Qué debe hacerse?",
+    "options": [
+      "Procesarlos juntos y corregir después",
+      "Detener el circuito de esas muestras y resolver la discrepancia según protocolo",
+      "Asignar un número al azar",
+      "Etiquetarlos solo con la fecha"
+    ],
+    "correct": 1,
+    "explanation": "Una discrepancia de identidad exige bloquear el flujo hasta confirmar trazabilidad.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 120,
+    "topic": "Calidad y trazabilidad",
+    "question": "Se detecta discordancia entre la descripción macroscópica y el número de fragmentos en un casete. ¿Cuál es la medida más segura?",
+    "options": [
+      "Continuar sin documentarlo",
+      "Eliminar la descripción previa",
+      "Registrar la incidencia y contrastarla con los registros y responsables",
+      "Duplicar automáticamente el número de bloques"
+    ],
+    "correct": 2,
+    "explanation": "La discrepancia debe documentarse e investigarse antes de proseguir.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 121,
+    "topic": "Descalcificación",
+    "question": "Para una muestra ósea en la que interesa preservar antígenos y ácidos nucleicos, ¿qué criterio es relevante?",
+    "options": [
+      "Elegir método y duración compatibles con los estudios posteriores",
+      "Utilizar siempre el ácido más fuerte",
+      "Ignorar el tamaño de la muestra",
+      "Evitar cualquier control de punto final"
+    ],
+    "correct": 0,
+    "explanation": "El método de descalcificación condiciona morfología y análisis complementarios.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 122,
+    "topic": "Bioseguridad",
+    "question": "Durante el procesamiento se produce una salpicadura sobre la superficie de trabajo. ¿Qué actuación es adecuada?",
+    "options": [
+      "Ignorarla si la muestra está fijada",
+      "Aplicar el protocolo de incidentes y descontaminación con los equipos de protección indicados",
+      "Usar cualquier disolvente sin consultar",
+      "Continuar hasta terminar la jornada"
+    ],
+    "correct": 1,
+    "explanation": "Se deben seguir los protocolos locales de bioseguridad y gestión de incidentes.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 123,
+    "topic": "Autopsias",
+    "question": "Durante una autopsia se identifica una muestra destinada a microbiología. ¿Qué aspecto es esencial para su validez?",
+    "options": [
+      "Depositarla en cualquier recipiente abierto",
+      "Mezclarla con las muestras fijadas en formol",
+      "Usar recipiente y conservación apropiados con identificación y trazabilidad",
+      "Esperar indefinidamente a temperatura ambiente"
+    ],
+    "correct": 2,
+    "explanation": "Las muestras microbiológicas requieren condiciones específicas de obtención, transporte y registro.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 124,
+    "topic": "Legislación Murcia · Derechos",
+    "question": "En un servicio sanitario de Murcia, una persona solicita acceso a su documentación clínica. ¿Qué principio debe orientar la actuación?",
+    "options": [
+      "Tramitar la solicitud conforme a derechos de acceso y límites legales aplicables",
+      "Entregar datos de cualquier familiar sin comprobar legitimación",
+      "Denegar siempre el acceso",
+      "Publicar la historia en un tablón"
+    ],
+    "correct": 0,
+    "explanation": "El acceso a la documentación clínica está sujeto a garantías de identidad, confidencialidad y límites normativos.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "legislation",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 125,
+    "topic": "Legislación Murcia · Confidencialidad",
+    "question": "Un profesional consulta por curiosidad la historia clínica de alguien a quien no atiende. ¿Qué valoración procede?",
+    "options": [
+      "Es aceptable si trabaja en el mismo hospital",
+      "No está justificado por una finalidad asistencial o autorizada",
+      "Es obligatorio para el personal de cualquier servicio",
+      "No requiere controles de acceso"
+    ],
+    "correct": 1,
+    "explanation": "El acceso a datos de salud requiere finalidad legítima y autorización conforme a la normativa.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "legislation",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 126,
+    "topic": "Legislación Murcia · Organización",
+    "question": "Una pregunta de examen cita una ley autonómica en su redacción original, pero existen reformas posteriores. ¿Qué fuente debe comprobarse para estudiar su vigencia?",
+    "options": [
+      "Un resumen no fechado",
+      "Un esquema de academia sin referencias",
+      "El texto consolidado y las publicaciones oficiales de modificación",
+      "Una entrada de redes sociales"
+    ],
+    "correct": 2,
+    "explanation": "La normativa debe estudiarse con su versión vigente y modificaciones oficiales.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "legislation",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 127,
+    "topic": "Inmunohistoquímica",
+    "question": "Una tinción nuclear esperada aparece solo en el citoplasma, con controles correctos. ¿Cuál es la actitud interpretativa?",
+    "options": [
+      "Revisar patrón esperado, especificidad y condiciones antes de concluir positividad",
+      "Informar siempre como positividad nuclear",
+      "Ignorar la localización subcelular",
+      "Aumentar el número de cortes sin revisar nada"
+    ],
+    "correct": 0,
+    "explanation": "La localización de la señal es parte esencial de la interpretación inmunohistoquímica.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
+  },
+  {
+    "id": 128,
+    "topic": "Citología",
+    "question": "Un frotis muestra abundante material superpuesto y escasa visualización nuclear. ¿Qué consecuencia tiene?",
+    "options": [
+      "Garantiza mayor sensibilidad",
+      "Puede limitar la valoración y requerir otra preparación o muestra según protocolo",
+      "Permite diagnosticar sin observar núcleos",
+      "Equivale siempre a muestra satisfactoria"
+    ],
+    "correct": 1,
+    "explanation": "El espesor y la superposición pueden dificultar la evaluación citomorfológica.",
+    "source": "Pregunta original avanzada basada en materias del temario SMS; NO transcripción oficial",
+    "kind": "technical",
+    "difficulty": "advanced",
+    "origin": "original"
   }
 ]
