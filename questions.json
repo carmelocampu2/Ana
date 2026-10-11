@@ -2174,5 +2174,260 @@
     "kind": "technical",
     "difficulty": "advanced",
     "origin": "original"
+  },
+  {
+    "id": 129,
+    "topic": "Fijación",
+    "question": "En una biopsia para estudio rutinario en parafina, ¿qué consecuencia es más probable si se retrasa mucho la fijación?",
+    "options": [
+      "Mejora de la preservación antigénica en todos los tejidos",
+      "Autólisis y alteración de la morfología celular",
+      "Eliminación completa de pigmentos formólicos",
+      "Ausencia de cambios preanalíticos"
+    ],
+    "correct": 1,
+    "explanation": "El retraso permite autólisis y deterioro preanalítico; debe registrarse el tiempo hasta la fijación.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 130,
+    "topic": "Fijación",
+    "question": "¿Qué afirmación describe mejor la función del formaldehído tamponado al 10 % en histopatología?",
+    "options": [
+      "Es un descalcificante ácido fuerte",
+      "Forma enlaces cruzados que estabilizan proteínas tisulares",
+      "Sustituye la inclusión en parafina",
+      "Tiñe selectivamente núcleos"
+    ],
+    "correct": 1,
+    "explanation": "El formaldehído estabiliza componentes tisulares mediante enlaces cruzados; la penetración y fijación dependen del tamaño y condiciones de la muestra.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 131,
+    "topic": "Procesamiento",
+    "question": "Si una muestra conserva agua antes de su infiltración en parafina, ¿qué problema puede aparecer?",
+    "options": [
+      "Infiltración deficiente y defectos en el corte",
+      "Incremento uniforme de la dureza sin artefactos",
+      "Mejora automática de la tinción H-E",
+      "Desaparición de la necesidad de aclaramiento"
+    ],
+    "correct": 0,
+    "explanation": "La deshidratación incompleta dificulta el aclaramiento y la infiltración homogénea con parafina.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 132,
+    "topic": "Microtomía",
+    "question": "Durante la microtomía aparecen cortes comprimidos de forma repetida. ¿Qué factor debe revisarse primero?",
+    "options": [
+      "El estado y ángulo de la cuchilla, y la temperatura del bloque",
+      "La concentración de hematoxilina",
+      "El número de portaobjetos etiquetados",
+      "El tiempo de montaje con cubreobjetos"
+    ],
+    "correct": 0,
+    "explanation": "La compresión suele relacionarse con filo, ángulo de corte y condiciones del bloque.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 133,
+    "topic": "Histotécnica",
+    "question": "Una descalcificación ácida excesiva puede comprometer especialmente:",
+    "options": [
+      "La identificación macroscópica del recipiente",
+      "La morfología y algunas técnicas inmunohistoquímicas o moleculares",
+      "La existencia de tejido mineralizado original",
+      "El registro del número de muestra"
+    ],
+    "correct": 1,
+    "explanation": "La exposición prolongada a ácidos puede deteriorar antígenos y ácidos nucleicos además de alterar la morfología.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 134,
+    "topic": "Inmunohistoquímica",
+    "question": "En una inmunotinción, el control positivo no muestra señal y el negativo tampoco. ¿Qué conclusión es más adecuada?",
+    "options": [
+      "El resultado del paciente es inequívocamente negativo",
+      "La técnica no es interpretable hasta revisar el fallo del control positivo",
+      "El anticuerpo siempre es específico",
+      "La ausencia de señal confirma el diagnóstico"
+    ],
+    "correct": 1,
+    "explanation": "Un control positivo fallido invalida la interpretación de la ausencia de tinción en la muestra.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 135,
+    "topic": "Inmunohistoquímica",
+    "question": "¿Qué objetivo tiene principalmente el bloqueo de peroxidasa endógena en una inmunohistoquímica con revelado HRP?",
+    "options": [
+      "Aumentar el grosor del corte",
+      "Reducir tinción inespecífica debida a actividad peroxidasa tisular",
+      "Eliminar toda la unión antígeno-anticuerpo",
+      "Fijar el tejido"
+    ],
+    "correct": 1,
+    "explanation": "El bloqueo disminuye señales espurias originadas por peroxidasas presentes en el tejido.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 136,
+    "topic": "Citología",
+    "question": "En una extensión citológica destinada a tinción de Papanicolaou, el secado al aire no previsto puede producir:",
+    "options": [
+      "Artefactos de fijación que alteran los detalles nucleares",
+      "Mayor nitidez nuclear garantizada",
+      "Conversión espontánea a tinción de Giemsa",
+      "Ausencia de consecuencias morfológicas"
+    ],
+    "correct": 0,
+    "explanation": "La fijación húmeda inmediata es importante para preservar la morfología nuclear en la tinción de Papanicolaou.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 137,
+    "topic": "Citología",
+    "question": "En una muestra citológica escasamente celular, ¿qué medida preanalítica es prioritaria?",
+    "options": [
+      "Registrar procedencia, método de obtención y condiciones de conservación",
+      "Asignar un diagnóstico sin revisión",
+      "Mezclarla con otra muestra del mismo turno",
+      "Omitir controles de identificación"
+    ],
+    "correct": 0,
+    "explanation": "La trazabilidad y la adecuación del procesamiento son esenciales para interpretar muestras de baja celularidad.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 138,
+    "topic": "Bioseguridad",
+    "question": "Ante una discrepancia entre la identificación del recipiente y la solicitud, la actuación más segura es:",
+    "options": [
+      "Procesar usando el nombre más legible",
+      "Detener el circuito y resolver la discrepancia según el procedimiento del centro",
+      "Cambiar la etiqueta sin registro",
+      "Descartar automáticamente sin comunicarlo"
+    ],
+    "correct": 1,
+    "explanation": "Las discrepancias de identificación requieren resolución documentada antes del procesamiento.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 139,
+    "topic": "Molecular",
+    "question": "¿Por qué es importante separar áreas pre-PCR y post-PCR en un laboratorio molecular?",
+    "options": [
+      "Para evitar contaminación por productos amplificados",
+      "Para impedir la deshidratación del tejido",
+      "Para sustituir controles negativos",
+      "Para incrementar la temperatura de hibridación"
+    ],
+    "correct": 0,
+    "explanation": "La separación física y de flujos reduce el riesgo de contaminación por amplicones.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 140,
+    "topic": "Calidad",
+    "question": "Una tinción H-E muestra variación importante entre lotes. ¿Cuál es la respuesta de calidad más adecuada?",
+    "options": [
+      "Aceptar todos los lotes sin documentar",
+      "Revisar reactivos, tiempos, controles y registros del proceso",
+      "Cambiar los diagnósticos anteriores",
+      "Omitir el control de calidad si el corte es fino"
+    ],
+    "correct": 1,
+    "explanation": "La investigación documentada de variables del proceso y controles permite identificar la causa de variabilidad.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 141,
+    "topic": "Criostato",
+    "question": "En un corte por congelación, ¿qué afirmación es correcta?",
+    "options": [
+      "Siempre ofrece la misma calidad morfológica que la parafina",
+      "Permite una valoración rápida, con limitaciones de artefactos y muestreo",
+      "Elimina la necesidad de identificar la muestra",
+      "Es el método preferido para toda técnica molecular"
+    ],
+    "correct": 1,
+    "explanation": "Los cortes por congelación son útiles para decisiones rápidas, pero tienen limitaciones técnicas e interpretativas.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 142,
+    "topic": "Trazabilidad",
+    "question": "¿Qué elemento asegura mejor la trazabilidad de un bloque y sus cortes?",
+    "options": [
+      "Un identificador único coherente entre solicitud, recipiente, cassette, bloque y portaobjetos",
+      "La memoria del operador",
+      "El color de la gradilla como único dato",
+      "La fecha sin número de caso"
+    ],
+    "correct": 0,
+    "explanation": "La identificación unívoca y consistente a lo largo del circuito reduce errores de asignación.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
+  },
+  {
+    "id": 143,
+    "topic": "Artefactos",
+    "question": "La aparición de pliegues en un corte de parafina montado puede dificultar principalmente:",
+    "options": [
+      "La valoración microscópica por superposición de estructuras",
+      "La lectura de la etiqueta del laboratorio",
+      "La fijación previa del tejido",
+      "La numeración de cassettes"
+    ],
+    "correct": 0,
+    "explanation": "Los pliegues superponen planos tisulares y dificultan la evaluación morfológica.",
+    "source": "Pregunta original de entrenamiento · v2.2 (no oficial)",
+    "kind": "technical",
+    "difficulty": "expert",
+    "origin": "original"
   }
 ]
