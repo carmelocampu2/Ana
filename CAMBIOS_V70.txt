@@ -1,0 +1,6 @@
+VERSIÓN 7.0 — Catálogo de exámenes oficiales
+- Madrid: ya estaban incorporados los modelos de acceso libre (105 preguntas) y promoción interna (90 preguntas); se conservan.
+- Castilla-La Mancha: referencia oficial SESCAM 2026, cuestionario y plantilla definitiva. Preguntas pendientes de importar y cotejar.
+- Galicia: referencia oficial SERGAS 2025; preguntas pendientes de localizar, importar y cotejar.
+- No se han inventado preguntas ni claves de respuesta.
+- Subir el contenido del ZIP a la raíz del repositorio y sobrescribir archivos existentes.

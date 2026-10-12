@@ -1,0 +1,1 @@
+V7.3: Galicia SERGAS 2021: 3 tests interactivos con 110 preguntas ordinarias + 12 de reserva, preguntas originales visibles como imagen y claves de la plantilla definitiva. Anuladas E4, E12, E46 y E75. Sustituciones de reservas no computadas hasta verificar su correspondencia. Castilla-La Mancha ordinario pendiente. No subir a GitHub sin revisión visual.
