@@ -1,0 +1,1 @@
+Revisión v3.4: aviso de reserva/anulada en pantalla; finalizar no exige contestar reservas ni anuladas; mantiene las claves de localStorage y el comportamiento de puntuación v3.3. Pruebas automáticas del motor ejecutadas por separado. No publicar sin prueba en Android.

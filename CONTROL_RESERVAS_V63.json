@@ -1,0 +1,30 @@
+{
+  "version": "6.3",
+  "modelos": [
+    {
+      "modelo": "A",
+      "preguntas": 100,
+      "anuladas": [
+        31
+      ],
+      "reservas_marcadas": [],
+      "sustituciones_verificadas": false,
+      "sustituciones_activadas": 0,
+      "preguntas_computables_provisionales": 99,
+      "pendiente": "Confirmar plantilla definitiva y reglas de sustitución/reserva de la convocatoria histórica"
+    },
+    {
+      "modelo": "B",
+      "preguntas": 100,
+      "anuladas": [
+        31
+      ],
+      "reservas_marcadas": [],
+      "sustituciones_verificadas": false,
+      "sustituciones_activadas": 0,
+      "preguntas_computables_provisionales": 99,
+      "pendiente": "Confirmar plantilla definitiva y reglas de sustitución/reserva de la convocatoria histórica"
+    }
+  ],
+  "tipo": "control interno, no resolución administrativa"
+}

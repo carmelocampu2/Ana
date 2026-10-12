@@ -1,0 +1,20 @@
+{
+  "version": "6.4",
+  "alcance": "Técnico Especialista Sanitario Anatomía Patológica Murcia, examen 2019",
+  "fuentes_plantilla_historica_2019": {
+    "A": "https://www.murciasalud.es/documents/153065/4612157/ANA_PAT_plantilla_RESPUESTAS_Libre-A.pdf/15068d29-3958-3266-ca6a-a7bbeee834fa?t=1668083830986",
+    "B": "https://www.murciasalud.es/documents/153065/4612157/ANA_PAT_plantilla_RESPUESTAS_Libre-B.pdf/a246c69d-b565-8cf8-f2e8-c62104b7b9c7?t=1668083830119"
+  },
+  "fuentes_otro_proceso_no_mezclar": {
+    "A": "https://www.murciasalud.es/documents/153065/0/TES_ANA_plantilla%2BRESPUESTAS%2B100%2BLB_A%2B%281%29.pdf/ffb98164-b572-4193-9867-0b5609f390a6?t=1700489260272",
+    "B": "https://www.murciasalud.es/documents/153065/0/TES_ANA_plantilla%2BRESPUESTAS%2B100%2BLB_B%2B%281%29.pdf/5c659254-d796-e814-0383-63b341d6cc60?t=1700489429614"
+  },
+  "control": {
+    "modelos": 2,
+    "preguntas": 200,
+    "coincidencias_con_plantilla_historica": 198,
+    "anulaciones_historicas": 2,
+    "respuestas_modificadas": 0
+  },
+  "estado": "No se ha acreditado en esta revisión plantilla definitiva posterior ni correspondencia de reservas. No mezclar convocatorias."
+}

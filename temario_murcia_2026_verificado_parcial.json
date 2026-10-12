@@ -1,0 +1,344 @@
+{
+  "version": "4.9",
+  "parte_general": {
+    "fuente": "https://www.murciasalud.es/documents/153065/0/Temario%2BParte%2BGeneral%2BTES.pdf/56694664-6042-22fc-1dcb-b5ad7ade8f6d?t=1764748487837",
+    "publicacion": "BORM 03/12/2025, anuncio 5795",
+    "temas": [
+      {
+        "codigo": "G01",
+        "numero": 1,
+        "titulo_resumido": "Constitución y Estatuto de Autonomía",
+        "contenido_resumido": "Constitución Española, protección de la salud, instituciones estatales y Estatuto de Autonomía de la Región de Murcia.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G02",
+        "numero": 2,
+        "titulo_resumido": "Organización sanitaria",
+        "contenido_resumido": "Ley General de Sanidad, Ley de Salud de la Región de Murcia, mapa sanitario y órganos del Servicio Murciano de Salud.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G03",
+        "numero": 3,
+        "titulo_resumido": "Derechos y deberes de los usuarios",
+        "contenido_resumido": "Ley 3/2009 de derechos y deberes de los usuarios del Sistema Sanitario de la Región de Murcia.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G04",
+        "numero": 4,
+        "titulo_resumido": "Personal estatutario",
+        "contenido_resumido": "Ley 5/2001, Estatuto Marco, EBEP, clasificación, situaciones administrativas, incompatibilidades y régimen disciplinario.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G05",
+        "numero": 5,
+        "titulo_resumido": "Prevención de riesgos laborales",
+        "contenido_resumido": "Ley 31/1995, servicios de prevención, riesgos y precauciones universales.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G06",
+        "numero": 6,
+        "titulo_resumido": "Transparencia y protección de datos",
+        "contenido_resumido": "Ley 12/2014 de transparencia, RGPD y Ley Orgánica 3/2018 de protección de datos.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      },
+      {
+        "codigo": "G07",
+        "numero": 7,
+        "titulo_resumido": "Igualdad y no discriminación",
+        "contenido_resumido": "Igualdad, prevención de la violencia de género y protección frente a la discriminación en la atención sanitaria.",
+        "estado": "resumen contrastado con el programa oficial; no es transcripcion literal"
+      }
+    ]
+  },
+  "parte_especifica": {
+    "fuente": "https://www.murciasalud.es/documents/153065/9659279/Temario%2BParte%2Bespec%C3%ADfica%2BTES.anatom%C3%ADa%2Bpatol%2B27-10-2016.pdf/3c23f13a-6c88-43b9-a712-029d86c7be7f?t=1750759539965",
+    "publicacion": "BORM 27/10/2016, anuncio 8702",
+    "numero_temas": 39,
+    "estado": "39 temas con resúmenes cotejados con el anexo oficial; sin clasificación individual de preguntas",
+    "temas": [
+      {
+        "codigo": "E01",
+        "numero": 1,
+        "titulo_resumido": "Bioética y secreto profesional",
+        "contenido_resumido": "Principios fundamentales de la bioética; aspectos éticos del trabajo del TEAP; secreto profesional.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E02",
+        "numero": 2,
+        "titulo_resumido": "Riesgos laborales",
+        "contenido_resumido": "Manipulación segura de muestras biológicas, reactivos y equipamiento; accidentes biológicos e higiene postural.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E03",
+        "numero": 3,
+        "titulo_resumido": "Infección y esterilización",
+        "contenido_resumido": "Epidemiología de enfermedades transmisibles, infección nosocomial, sepsis, asepsia, desinfección y esterilización.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E04",
+        "numero": 4,
+        "titulo_resumido": "Residuos sanitarios",
+        "contenido_resumido": "Clasificación, transporte, eliminación y tratamiento de residuos sanitarios.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E05",
+        "numero": 5,
+        "titulo_resumido": "Equipos de imagen",
+        "contenido_resumido": "Manejo de equipos de imagen para el diagnóstico y de la información.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E06",
+        "numero": 6,
+        "titulo_resumido": "Documentación y trazabilidad",
+        "contenido_resumido": "Documentación de muestras, codificación, registro, sistemas de información y SNOMED CT.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E07",
+        "numero": 7,
+        "titulo_resumido": "Disoluciones",
+        "contenido_resumido": "Preparación de disoluciones, soluciones tamponadas y diluciones.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E08",
+        "numero": 8,
+        "titulo_resumido": "Histotecnología",
+        "contenido_resumido": "Funciones del técnico, conceptos de histotecnología, biopsia, pieza quirúrgica y preparación histológica.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E09",
+        "numero": 9,
+        "titulo_resumido": "Autopsia clínica",
+        "contenido_resumido": "Tipos, técnicas, metodología, equipamiento, salas de autopsia, papel del técnico, residuos y bioseguridad.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E10",
+        "numero": 10,
+        "titulo_resumido": "Biobancos",
+        "contenido_resumido": "Procesamiento de muestras, conservación, criopreservación, anonimización, cultivos celulares, citometría y análisis de imagen.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E11",
+        "numero": 11,
+        "titulo_resumido": "Evaluación preimplantación",
+        "contenido_resumido": "Procesamiento de muestras para evaluación preimplantación en trasplante de órganos.",
+        "estado": "resumen basado en temario oficial; no transcripción literal"
+      },
+      {
+        "codigo": "E12",
+        "numero": 12,
+        "titulo_resumido": "Procesamiento histológico",
+        "contenido_resumido": "Fundamentos del procesamiento de tejidos y equipamiento general del laboratorio.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E13",
+        "numero": 13,
+        "titulo_resumido": "Fijación tisular",
+        "contenido_resumido": "Principios y tipos de fijación, agentes fijadores y fijación para microscopía electrónica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E14",
+        "numero": 14,
+        "titulo_resumido": "Descalcificación",
+        "contenido_resumido": "Descalcificación y reblandecimiento tisular; procedimientos químicos y otras modalidades.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E15",
+        "numero": 15,
+        "titulo_resumido": "Inclusión",
+        "contenido_resumido": "Deshidratación, infiltración en parafina y otros medios de inclusión; microscopía electrónica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E16",
+        "numero": 16,
+        "titulo_resumido": "Bloques y orientación",
+        "contenido_resumido": "Preparación y orientación de bloques según las características de los fragmentos tisulares.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E17",
+        "numero": 17,
+        "titulo_resumido": "Microtomía y criostato",
+        "contenido_resumido": "Tipos de micrótomos y cuchillas; corte en parafina, criostato y microscopía electrónica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E18",
+        "numero": 18,
+        "titulo_resumido": "Microscopía",
+        "contenido_resumido": "Microscopio óptico simple y compuesto y fundamentos del microscopio electrónico.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E19",
+        "numero": 19,
+        "titulo_resumido": "Tratamiento de cortes",
+        "contenido_resumido": "Tratamiento de los cortes histológicos antes y después de la coloración.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E20",
+        "numero": 20,
+        "titulo_resumido": "Fundamentos de tinción",
+        "contenido_resumido": "Coloraciones nucleares, citoplasmáticas y de conjunto.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E21",
+        "numero": 21,
+        "titulo_resumido": "Tejido conjuntivo",
+        "contenido_resumido": "Tinciones del tejido conjuntivo y técnicas de impregnación argéntica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E22",
+        "numero": 22,
+        "titulo_resumido": "Sustancias tisulares",
+        "contenido_resumido": "Tinciones para identificar grasas, glucógeno, mucina, fibrina y amiloide.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E23",
+        "numero": 23,
+        "titulo_resumido": "Ácidos nucleicos y pigmentos",
+        "contenido_resumido": "Coloraciones de ácidos nucleicos y métodos de identificación de pigmentos e iones metálicos.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E24",
+        "numero": 24,
+        "titulo_resumido": "Microorganismos",
+        "contenido_resumido": "Métodos de detección de bacterias, espiroquetas, hongos y otros microorganismos.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E25",
+        "numero": 25,
+        "titulo_resumido": "Inmunohistoquímica",
+        "contenido_resumido": "Conceptos generales del sistema inmunitario y técnicas inmunohistoquímicas.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E26",
+        "numero": 26,
+        "titulo_resumido": "Diagnóstico molecular",
+        "contenido_resumido": "Hibridación in situ, PCR y variantes, secuenciación, ADN, extracción y control de calidad.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E27",
+        "numero": 27,
+        "titulo_resumido": "Citología básica",
+        "contenido_resumido": "Fundamentos de citología y aspectos generales del citodiagnóstico.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E28",
+        "numero": 28,
+        "titulo_resumido": "Citopatología",
+        "contenido_resumido": "Organización de una sección de citopatología y funciones de citotecnología.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E29",
+        "numero": 29,
+        "titulo_resumido": "Muestras citopatológicas",
+        "contenido_resumido": "Muestras exfoliativas, PAAF, líquidos y secreciones; obtención, prefijación y envío.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E30",
+        "numero": 30,
+        "titulo_resumido": "Procesamiento citológico",
+        "contenido_resumido": "Procesamiento y fijación de muestras respiratorias, líquidos, lavados y PAAF.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E31",
+        "numero": 31,
+        "titulo_resumido": "Coloraciones citológicas",
+        "contenido_resumido": "Técnicas de Papanicolaou, May-Grünwald-Giemsa y Diff-Quik.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E32",
+        "numero": 32,
+        "titulo_resumido": "Criterios citodiagnósticos",
+        "contenido_resumido": "Estructura celular, inflamación tisular y criterios citológicos de malignidad.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E33",
+        "numero": 33,
+        "titulo_resumido": "Citología ginecológica",
+        "contenido_resumido": "Cribado cervical, Bethesda, citología convencional y líquida, técnicas moleculares y VPH.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E34",
+        "numero": 34,
+        "titulo_resumido": "Anatomía básica",
+        "contenido_resumido": "Anatomía de los sistemas respiratorio, digestivo, circulatorio, urinario y genital.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E35",
+        "numero": 35,
+        "titulo_resumido": "Citología clínica",
+        "contenido_resumido": "Citología exfoliativa respiratoria y digestiva, derrames, orina y otras localizaciones.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E36",
+        "numero": 36,
+        "titulo_resumido": "Técnicas especiales en citología",
+        "contenido_resumido": "Inmunocitoquímica y técnicas de diagnóstico molecular aplicadas a citología.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E37",
+        "numero": 37,
+        "titulo_resumido": "Control de calidad",
+        "contenido_resumido": "Garantía y control de calidad en fases preanalítica, analítica y postanalítica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E38",
+        "numero": 38,
+        "titulo_resumido": "Patología digital",
+        "contenido_resumido": "Preparaciones digitales y fundamentos de imagen digital en Anatomía Patológica.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      },
+      {
+        "codigo": "E39",
+        "numero": 39,
+        "titulo_resumido": "Docencia y formación continua",
+        "contenido_resumido": "Docencia y participación en la formación y desarrollo profesional del técnico.",
+        "estado": "resumen cotejado con el anexo del BORM 27/10/2016; no transcripción literal"
+      }
+    ],
+    "temas_pendientes": []
+  },
+  "clasificacion_preguntas": {
+    "revisadas_individualmente": 0,
+    "total": 1204
+  }
+}

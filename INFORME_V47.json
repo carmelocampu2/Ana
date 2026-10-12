@@ -1,0 +1,15 @@
+{
+  "version": "4.7",
+  "temas_generales_resumidos": 7,
+  "temas_especificos_resumidos": 11,
+  "temas_especificos_pendientes": 28,
+  "preguntas_clasificadas_individualmente": 0,
+  "catalogo_preguntas_declarado": 1204,
+  "fuente_especifica": "BORM 27/10/2016 anuncio 8702",
+  "pruebas": [
+    "JSON válido",
+    "HTML contiene 11 temas específicos",
+    "ZIP íntegro"
+  ],
+  "pendiente": "Verificación literal de temas 12–39 y clasificación individual de preguntas"
+}

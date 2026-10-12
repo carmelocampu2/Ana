@@ -1,0 +1,95 @@
+{
+  "convocatorias": [
+    {
+      "id": "SAS-2025",
+      "comunidad": "Andalucía",
+      "organismo": "SAS",
+      "anio": 2025,
+      "turno": "Acceso libre",
+      "fuente_oficial": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/profesionales/ofertas-de-empleo/oferta-de-empleo-publico-puestos-base/convocatorias-oep-2025/cuadro-de-evolucion/tecnicoa-especialista-en-anatomia-patologica",
+      "documentacion": "Cuadernillo y plantilla definitiva anunciados",
+      "estado_verificacion": "verificado_portal"
+    },
+    {
+      "id": "SACYL-2025",
+      "comunidad": "Castilla y León",
+      "organismo": "SACYL",
+      "anio": 2025,
+      "turno": "Estabilización",
+      "fuente_oficial": "https://www.saludcastillayleon.es/profesionales/en/procesos_selectivos/proceso-excepcional-estabilizacion-ley-20-2021-28-diciembre/diplomados-especialistas-diplomados-sanitarios-tecnicos-sup/tecnico-superior-anatomia-patologica-concurso-oposicion",
+      "documentacion": "Cuadernillo y plantilla definitiva anunciados",
+      "estado_verificacion": "verificado_portal"
+    },
+    {
+      "id": "SALUD-2025",
+      "comunidad": "Aragón",
+      "organismo": "Servicio Aragonés de Salud",
+      "anio": 2025,
+      "turno": "Libre e interna",
+      "fuente_oficial": "https://www.aragon.es/-/t%C3%A9cnico/a-superior-de-anatom%C3%ADa-patol%C3%B3gica-y-citolog%C3%ADa.-oposiciones.-convocatoria-2025.-servicio-aragon%C3%A9s-de-salud",
+      "documentacion": "Cuadernillo y plantilla provisional; resolución de cambios",
+      "estado_verificacion": "revisar_definitiva"
+    },
+    {
+      "id": "SMS-2019",
+      "comunidad": "Murcia",
+      "organismo": "SMS",
+      "anio": 2019,
+      "turno": "Libre",
+      "fuente_oficial": "https://www.murciasalud.es/documents/153065/4612157/ANA_PAT_plantilla_RESPUESTAS_Libre-A.pdf/15068d29-3958-3266-ca6a-a7bbeee834fa?t=1668083830986",
+      "documentacion": "Plantilla enlazada; falta cuadernillo",
+      "estado_verificacion": "incompleto"
+    },
+    {
+      "id": "SMS-2023",
+      "comunidad": "Murcia",
+      "organismo": "SMS",
+      "anio": 2023,
+      "turno": "Sin determinar",
+      "fuente_oficial": "https://www.murciasalud.es/",
+      "documentacion": "Localizar documentos exactos",
+      "estado_verificacion": "pendiente"
+    },
+    {
+      "id": "SERMAS-2024",
+      "comunidad": "Madrid",
+      "organismo": "SERMAS",
+      "anio": 2024,
+      "turno": "Sin determinar",
+      "fuente_oficial": "https://www.comunidad.madrid/servicios/salud",
+      "documentacion": "Localizar documentos exactos",
+      "estado_verificacion": "pendiente"
+    },
+    {
+      "id": "OSASUNBIDEA-2025",
+      "comunidad": "Navarra",
+      "organismo": "Osasunbidea",
+      "anio": 2025,
+      "turno": "Sin determinar",
+      "fuente_oficial": "https://www.navarra.es/",
+      "documentacion": "Localizar documentos exactos",
+      "estado_verificacion": "pendiente"
+    },
+    {
+      "id": "INGESA-2024",
+      "comunidad": "Ceuta y Melilla",
+      "organismo": "INGESA",
+      "anio": 2024,
+      "turno": "Sin determinar",
+      "fuente_oficial": "https://ingesa.sanidad.gob.es/",
+      "documentacion": "Localizar documentos exactos",
+      "estado_verificacion": "pendiente"
+    },
+    {
+      "id": "SAS-2023",
+      "comunidad": "Andalucía",
+      "organismo": "SAS",
+      "anio": 2023,
+      "turno": "Libre",
+      "fuente_oficial": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/sites/default/files/sincfiles/wsas-media-mediafile_sasdocumento/2024/def_teanatpat_sas_2023_0.pdf",
+      "documentacion": "Plantilla definitiva; parcial verificada (1-28)",
+      "estado_verificacion": "plantilla_parcial"
+    }
+  ],
+  "nota": "Catálogo de referencias. No equivale a cuadernillos descargados ni a preguntas oficiales verificadas."
+}

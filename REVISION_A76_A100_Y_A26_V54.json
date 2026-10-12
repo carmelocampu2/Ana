@@ -1,0 +1,136 @@
+{
+  "alcance": "Murcia modelo A, preguntas 76 a 100 y revisión de la 26 por opciones",
+  "revisiones": [
+    {
+      "numero": 26,
+      "area": "Procesamiento histológico: miscibilidad de reactivos e inclusión en parafina",
+      "estado": "revisada_por_enunciado_y_opciones"
+    },
+    {
+      "numero": 76,
+      "area": "Congelación y técnicas histoenzimáticas",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 77,
+      "area": "Microtomía",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 78,
+      "area": "Anatomía y fisiología hepática",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 79,
+      "area": "Inmunología",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 80,
+      "area": "Fijadores histológicos",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 81,
+      "area": "Constitución Española (comprobar vigencia normativa)",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 82,
+      "area": "Histoquímica del amiloide y polarización",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 83,
+      "area": "Microscopía de polarización",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 84,
+      "area": "Citología respiratoria",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 85,
+      "area": "Tinciones de fibras elásticas",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 86,
+      "area": "Citología: preparación y tinción de extensiones",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 87,
+      "area": "Estudios anatomopatológicos en trasplantes",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 88,
+      "area": "Inmunohistoquímica",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 89,
+      "area": "Histopatología y procedencia de muestras",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 90,
+      "area": "Química básica y pH",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 91,
+      "area": "Constitución Española y salud pública (comprobar vigencia)",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 92,
+      "area": "Histoquímica de pigmentos",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 93,
+      "area": "Hibridación in situ y biología molecular",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 94,
+      "area": "Tinciones de fibras reticulares",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 95,
+      "area": "Microscopía óptica",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 96,
+      "area": "Gestión de residuos sanitarios (comprobar vigencia normativa)",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 97,
+      "area": "Anatomía cardíaca",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 98,
+      "area": "Cambios morfológicos celulares",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 99,
+      "area": "Inclusión en parafina",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    },
+    {
+      "numero": 100,
+      "area": "Aclaramiento e inclusión en parafina",
+      "estado": "revisada_por_enunciado; opciones no cotejadas"
+    }
+  ],
+  "nota": "Clasificación temática orientativa; no equivale a validación de respuesta, vigencia normativa ni cotejo íntegro con PDF original."
+}

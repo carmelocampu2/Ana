@@ -1,0 +1,131 @@
+{
+  "alcance": "Murcia modelo A, 51-75",
+  "revisiones": [
+    {
+      "numero": 51,
+      "area": "Tinciones e impregnaciones histológicas",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 52,
+      "area": "Organización sanitaria de Murcia (legislación histórica)",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 53,
+      "area": "Biología molecular y secuenciación",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 54,
+      "area": "Anatomía general",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 55,
+      "area": "Biología molecular",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 56,
+      "area": "Tinciones histológicas",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 57,
+      "area": "Inmunohistoquímica y fijación",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 58,
+      "area": "Anatomía general y sistema linfático",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 59,
+      "area": "Tinciones especiales y microbiología",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 60,
+      "area": "Tinciones especiales y parasitología",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 61,
+      "area": "Histoquímica de lípidos",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 62,
+      "area": "Microscopía óptica",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 63,
+      "area": "Hibridación in situ y FISH",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 64,
+      "area": "Tinciones y colorantes",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 65,
+      "area": "Bioseguridad",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 66,
+      "area": "Inmunología",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 67,
+      "area": "Inmunología y trasplantes",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 68,
+      "area": "Anatomía general",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 69,
+      "area": "Biología molecular y PCR",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 70,
+      "area": "Impregnaciones argénticas",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 71,
+      "area": "Personal estatutario (legislación histórica)",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 72,
+      "area": "Tinciones y colorantes",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 73,
+      "area": "Prevención de riesgos y responsabilidad profesional",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 74,
+      "area": "Citología y coloraciones",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    },
+    {
+      "numero": 75,
+      "area": "Descalcificación histológica",
+      "estado": "revisada_por_enunciado_no_por_opciones"
+    }
+  ],
+  "advertencia": "No se han modificado respuestas; legislación histórica requiere comprobación vigente."
+}

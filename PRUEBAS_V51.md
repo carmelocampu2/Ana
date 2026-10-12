@@ -1,0 +1,1 @@
+Versión 5.1 — 20 preguntas modelo A con área temática revisada por enunciado; 180 sin revisión individual. Sin asignación de tema numerado. Respuestas no alteradas. Se conserva banco de preguntas. NO PUBLICAR.
