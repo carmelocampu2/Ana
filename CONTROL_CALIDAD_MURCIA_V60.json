@@ -1,0 +1,24 @@
+{
+  "version": "6.0",
+  "objetivo": "Facilitar estudio por área sin confundir coincidencia interna con verificación documental",
+  "preguntas_murcia": 200,
+  "modelo_A": 100,
+  "modelo_B": 100,
+  "clave_catalogo_vs_transcripcion": "200 coincidencias internas, no verificación independiente",
+  "anulaciones_transcritas": {
+    "A": [
+      31
+    ],
+    "B": [
+      31
+    ]
+  },
+  "problemas_pendientes": [
+    "Cotejar plantillas definitivas originales para convocatoria 2019 de Técnico Especialista Sanitario",
+    "Resolver informe antiguo de 89 preguntas frente a 100 del catálogo",
+    "Comprobar numeración y reservas de cuadernillos",
+    "Verificar vigencia normativa 2026"
+  ],
+  "modificaciones_claves": 0,
+  "nueva_funcion": "Filtros combinables por modelo, materia y texto en pantalla de clasificación"
+}

@@ -1,0 +1,32 @@
+{
+  "objetivo": "Convocatoria SMS Anatomía Patológica noviembre 2026 (fecha indicada en conversación, pendiente de comprobación en convocatoria oficial)",
+  "catalogo": 1204,
+  "examenes": 13,
+  "murcia": {
+    "modelos": 2,
+    "preguntas": 200,
+    "claves_publicadas": 198,
+    "anuladas": [
+      {
+        "modelo": "A",
+        "numero": 31
+      },
+      {
+        "modelo": "B",
+        "numero": 31
+      }
+    ],
+    "estado": "claves publicadas, no certificadas como definitivas"
+  },
+  "cambios": [
+    "Catálogo de 1204 integrado en PWA v4.1",
+    "Portada orientada a convocatoria noviembre 2026",
+    "Enlace a plantilla publicada de Murcia desde selector",
+    "Aviso de provisionalidad visible"
+  ],
+  "pendiente": [
+    "Verificar fecha, bases y temario oficial de convocatoria 2026",
+    "Verificar rectificaciones y plantillas definitivas de Murcia",
+    "Prueba funcional en Chrome Android"
+  ]
+}

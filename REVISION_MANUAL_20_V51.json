@@ -1,0 +1,146 @@
+{
+  "alcance": "Modelo A preguntas 1 a 20",
+  "metodo": "Lectura individual de enunciados; asignación de área amplia; no de tema numerado",
+  "revisiones": [
+    {
+      "examen": "SMS-2019-A",
+      "numero": 1,
+      "area": "Procesos del laboratorio y calidad",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 2,
+      "area": "Citología",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 3,
+      "area": "Macroscopia y procesamiento de piezas",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 4,
+      "area": "Inmunohistoquímica",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 5,
+      "area": "Citopatología ginecológica",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 6,
+      "area": "Tinciones",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 7,
+      "area": "Legislación sanitaria general (vigencia pendiente)",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 8,
+      "area": "Bioseguridad y prevención",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 9,
+      "area": "Microscopía",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 10,
+      "area": "Autopsias",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 11,
+      "area": "Histoquímica",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 12,
+      "area": "Citopatología",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 13,
+      "area": "Técnicas diagnósticas",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 14,
+      "area": "Biología molecular",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 15,
+      "area": "Histoquímica",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 16,
+      "area": "Fijación de tejidos",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 17,
+      "area": "Inmunología",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 18,
+      "area": "Microbiología aplicada a citología",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 19,
+      "area": "Histoquímica de ácidos nucleicos",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    },
+    {
+      "examen": "SMS-2019-A",
+      "numero": 20,
+      "area": "Fijación de muestras citológicas",
+      "estado": "area_revisada_por_enunciado",
+      "tema_oficial": null
+    }
+  ]
+}

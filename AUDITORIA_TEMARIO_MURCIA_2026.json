@@ -1,0 +1,32 @@
+{
+  "objetivo": "Convocatoria Murcia noviembre 2026",
+  "referencia_tematica": "Resolución SMS BORM 27-10-2016 parte específica TES Anatomía Patológica",
+  "estado_tema_2026": "Pendiente de confirmar vigencia y modificaciones en bases convocatoria noviembre 2026",
+  "fuente": "https://www.murciasalud.es/-/legislacion-368165",
+  "catalogo": {
+    "examenes": 13,
+    "preguntas": 1204
+  },
+  "murcia": [
+    {
+      "id": "SMS-2019-A",
+      "comunidad": "Región de Murcia",
+      "total": 100,
+      "con_clave": 99,
+      "anuladas": 1
+    },
+    {
+      "id": "SMS-2019-B",
+      "comunidad": "Región de Murcia",
+      "total": 100,
+      "con_clave": 99,
+      "anuladas": 1
+    }
+  ],
+  "pendientes": [
+    "Obtener bases y temario aplicable 2026",
+    "Contrastar modificaciones legislativas",
+    "Comprobar rectificaciones plantillas Murcia 2019",
+    "Revisión visual de enunciados"
+  ]
+}

@@ -1,0 +1,1 @@
+Versión 5.2. Revisión temática por enunciado A21-A50, salvo A26 que no permite clasificación segura. Total 49 revisadas y 151 pendientes. Sin cambios en respuestas ni asignación de tema oficial. No probado en Android. NO PUBLICAR.
