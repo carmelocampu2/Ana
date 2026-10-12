@@ -1,1 +1,0 @@
-V5.5: 25 propuestas temáticas para Murcia B1-B25. Se mantienen las 100 del A. Total 125/200 propuestas; 75 sin revisión individual. No se modifican respuestas ni preguntas. No hay cotejo con PDF original, ni verificación de respuestas, ni test Android.

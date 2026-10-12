@@ -1,1 +1,0 @@
-Versión de desarrollo 4.4. Simulacro Murcia 2026: 100 preguntas, 110 minutos, 4 opciones según disponibilidad del banco, aciertos - errores/4; blancas 0. No es examen oficial ni replica distribución oficial. Modo libre mantiene penalización opcional de 1/3. Service worker cache limitado a recursos presentes. Pendiente prueba Android.

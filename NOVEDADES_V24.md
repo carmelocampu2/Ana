@@ -1,1 +1,0 @@
-Versión 2.4: incorpora PDFs completos y plantillas de Aragón 2025 y Andalucía 2024. Andalucía: 78 preguntas extraídas para práctica interactiva; Aragón: cuadernillo escaneado en PDF, pendiente de transcripción fiable. Las plantillas no son necesariamente definitivas.

@@ -1,1 +1,0 @@
-V5.0: 200 preguntas revisadas automáticamente por patrones de enunciado. Clasificación provisional; cero temas oficiales asignados. Se mantienen las respuestas y el catálogo original. Pendiente prueba Android.
