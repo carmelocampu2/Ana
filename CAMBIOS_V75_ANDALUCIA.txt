@@ -1,0 +1,6 @@
+Actualización Andalucía 2024 (SAS convocatoria 2023, examen 10/02/2024).
+78 preguntas: 77 con respuesta y 1 anulada (número 11). Reserva 151 sustituye a 11, con clave D.
+Fuente: plantilla definitiva oficial def_teanatpat_sas_2023_0.pdf proporcionada por el usuario.
+Solo se han modificado examenes-oficiales.json, sw.js y este archivo.
+Murcia y otros exámenes permanecen sin cambios.
+Para GitHub: subir los 3 archivos a la raíz del repositorio (o sustituir todos los archivos del ZIP).
