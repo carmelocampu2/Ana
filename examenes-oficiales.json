@@ -1,5 +1,5 @@
 {
-  "version": "v83-aragon-2025-110-preguntas",
+  "version": "v84-murcia-2023-modelo-a",
   "examenes": [
     {
       "id": "SMS-2019-A",
@@ -1343,7 +1343,9 @@
         31
       ],
       "sustituciones_verificadas": false,
-      "nota_correccion": "Pregunta 31 anulada según plantilla publicada; excluida de la puntuación. No hay sustitución por reserva verificada. Nota orientativa, no oficial."
+      "nota_correccion": "Pregunta 31 anulada según plantilla publicada; excluida de la puntuación. No hay sustitución por reserva verificada. Nota orientativa, no oficial.",
+      "plantilla_archivo": "murcia_2018_plantilla_A.pdf",
+      "nota": "OPE 2018, examen celebrado en 2019. Modelo A. Plantilla aportada."
     },
     {
       "id": "SMS-2019-B",
@@ -2688,6 +2690,1224 @@
       ],
       "sustituciones_verificadas": false,
       "nota_correccion": "Pregunta 31 anulada según plantilla publicada; excluida de la puntuación. No hay sustitución por reserva verificada. Nota orientativa, no oficial."
+    },
+    {
+      "id": "SMS-2023-A",
+      "comunidad": "Región de Murcia",
+      "organismo": "Servicio Murciano de Salud",
+      "anio": 2023,
+      "modelo": "A",
+      "fuente_archivo": "murcia_2023_modelo_A.pdf",
+      "plantilla_archivo": "murcia_2023_plantilla_A.pdf",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Cómo se denomina el cambio de un tejido por otro maduro?:",
+          "opciones": {
+            "A": "Displasia.",
+            "B": "Aplasia.",
+            "C": "Metaplasia.",
+            "D": "Hipertrofia."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 2,
+          "pregunta": "En un trasplante, el complejo mayor de histocompatibilidad es:",
+          "opciones": {
+            "A": "Un grupo de genes.",
+            "B": "Una proteína.",
+            "C": "Un solo gen.",
+            "D": "Una molécula."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 3,
+          "pregunta": "¿Qué es la citopatología?:",
+          "opciones": {
+            "A": "Es la parte de la Anatomía Patológica que estudia los líquidos orgánicos.",
+            "B": "Es la parte de la Anatomía Patológica que estudia la morfología de la célula.",
+            "C": "Es la parte de la Anatomía Patológica que estudia los PAAF.",
+            "D": "Es la parte de la Anatomía Patológica que estudia las alteraciones morfológicas de las células desprendidas libremente de los epitelios o extraídas de algunas partes del cuerpo."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 4,
+          "pregunta": "¿Quién puede ser usuario de un Biobanco?:",
+          "opciones": {
+            "A": "Investigadores.",
+            "B": "Cualquier persona.",
+            "C": "La industria.",
+            "D": "A y C son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 5,
+          "pregunta": "¿Cuál de los siguientes factores intervienen en la correcta realización del citodiagnóstico?:",
+          "opciones": {
+            "A": "Extensión de la muestra.",
+            "B": "Fijación de la muestra.",
+            "C": "Obtención de la muestra.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 6,
+          "pregunta": "Los valores límite ambientales son las concentraciones en la zona de trabajo. ¿Cómo se expresan?:",
+          "opciones": {
+            "A": "En partes por millón (ppm) o en mg/m3.",
+            "B": "En centímetros cúbicos.",
+            "C": "En mg/m2.",
+            "D": "Ninguna es cierta."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 7,
+          "pregunta": "¿Qué tipo de colorantes se utiliza en la tinción de Papanicolau?:",
+          "opciones": {
+            "A": "Azul alcián y hematoxilina.",
+            "B": "Giemsa y eosina.",
+            "C": "Hematoxilina de Harris, eosina y solución naranja.",
+            "D": "Hematoxilina de Harris y giemsa."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 8,
+          "pregunta": "El Sistema Bethesda incluye información sobre:",
+          "opciones": {
+            "A": "La calidad de la muestra.",
+            "B": "Su clasificación general.",
+            "C": "Un diagnóstico descriptivo.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 9,
+          "pregunta": "Las muestras citológicas obtenidas por punción se tiñen con:",
+          "opciones": {
+            "A": "Papanicolau.",
+            "B": "Hematoxilina.",
+            "C": "Eosina.",
+            "D": "Gram."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 10,
+          "pregunta": "Según sus propiedades toxicológicas, los riesgos químicos pueden ser:",
+          "opciones": {
+            "A": "Tóxicos, muy tóxicos, nocivos, inflamables, irritantes y sensibilizantes.",
+            "B": "Tóxicos, muy tóxicos, comburentes, corrosivos, irritantes y sensibilizantes.",
+            "C": "Tóxicos, muy tóxicos, inflamables, corrosivos, irritantes y sensibilizantes.",
+            "D": "Tóxicos, muy tóxicos, nocivos, corrosivos, irritantes y sensibilizantes."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 11,
+          "pregunta": "Indique cuál de los siguientes no es un componente de un microscopio electrónico de transmisión:",
+          "opciones": {
+            "A": "Polarizador.",
+            "B": "Pantalla de proyección.",
+            "C": "Filamento de tungsteno.",
+            "D": "Cámara fotográfica."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 12,
+          "pregunta": "Según el artículo 57 de la Ley General de Sanidad, las Áreas de Salud contarán como mínimo con los siguientes órganos (señale la respuesta incorrecta):",
+          "opciones": {
+            "A": "De participación: El Consejo de Salud de Área.",
+            "B": "De dirección: El Consejo de Dirección de Área.",
+            "C": "De gestión: El Gerente de Área.",
+            "D": "De orientación: El Consejo de Gestión de Área."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 13,
+          "pregunta": "¿Qué marcador se utilizaría para distinguir entre un carcinoma ductal y un carcinoma lobulillar de mama?:",
+          "opciones": {
+            "A": "E-Cadherina.",
+            "B": "CK 19.",
+            "C": "HER-2 neu.",
+            "D": "Actina de músculo liso."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 14,
+          "pregunta": "¿Cuál de las siguientes muestras citológicas se obtiene mediante punción aspiración con aguja fina?:",
+          "opciones": {
+            "A": "Citología de cavidad endometrial.",
+            "B": "Broncoaspirado.",
+            "C": "Lavado intraoperatorio de cavidad pélvica.",
+            "D": "Citología de tiroides."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 15,
+          "pregunta": "¿Cuál de estos elementos no pertenece a la parte óptica de un microscopio?:",
+          "opciones": {
+            "A": "Objetivo.",
+            "B": "Ocular.",
+            "C": "Reostato.",
+            "D": "Fuente de luz."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 16,
+          "pregunta": "La sustancia amiloide se tiñe con el Rojo Congo. Si se mira al microscopio, ¿de qué color se verá?:",
+          "opciones": {
+            "A": "Naranja rojiza.",
+            "B": "Pardo negruzca.",
+            "C": "Verde amarillenta.",
+            "D": "Amarilla."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 17,
+          "pregunta": "¿Cuál de los siguientes desinfectantes es mejor para desinfectar superficies y equipos metálicos?:",
+          "opciones": {
+            "A": "Glutaraldehído al 2%.",
+            "B": "Hipocloritos.",
+            "C": "Agua y jabón.",
+            "D": "Todas las anteriores son ciertas."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 18,
+          "pregunta": "En citología cervicovaginal, la presencia de células epiteliales atípicas con núcleos picnóticos, morfología de renacuajo y citoplasma eosinófilo es:",
+          "opciones": {
+            "A": "Adenocarcinoma.",
+            "B": "Metaplasia escamosa del endocérvix.",
+            "C": "Carcinoma epidermoide.",
+            "D": "Carcinoma neuroendocrino."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 19,
+          "pregunta": "Según el artículo 9 de la ley General de Sanidad, los poderes públicos deberán informar a los usuarios de los servicios del sistema sanitario público o vinculados a él:",
+          "opciones": {
+            "A": "Sus obligaciones y deberes.",
+            "B": "Sus competencias y deberes.",
+            "C": "Sus derechos y recursos.",
+            "D": "Sus derechos y deberes."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 20,
+          "pregunta": "Es un objetivo del citodiagnóstico:",
+          "opciones": {
+            "A": "Coloración en el diagnóstico y tipificación de neoplasias malignas.",
+            "B": "Diagnóstico específico de algunas lesiones benignas.",
+            "C": "Elección de pacientes de alto riesgo para un tipo específico de cáncer.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 21,
+          "pregunta": "¿En qué tipo de trasplante se demostró la importancia de la compatibilidad del HLA?:",
+          "opciones": {
+            "A": "Hepático.",
+            "B": "Renal.",
+            "C": "Cardiaco.",
+            "D": "Pancreático."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 22,
+          "pregunta": "¿Cuál de las siguientes afirmaciones sobre la biopsia diagnóstica NO es correcta?:",
+          "opciones": {
+            "A": "Un objetivo es concretar el diagnóstico histopatológico de una lesión.",
+            "B": "Suele contener la totalidad de la lesión.",
+            "C": "Son de pequeño tamaño.",
+            "D": "Permite realizar técnicas moleculares."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 23,
+          "pregunta": "La coloración de Diff- Quick:",
+          "opciones": {
+            "A": "Consta de tres soluciones: un fijador y dos colorantes que necesitan agua para pasar de una a otra.",
+            "B": "Es la tinción habitual en las citologías cervicovaginales.",
+            "C": "Es una tinción rápida para valorar si el material es suficiente para realizar un diagnóstico.",
+            "D": "En las preparaciones teñidas con esta técnica no se pueden realizar otras tinciones."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 24,
+          "pregunta": "La PCR sirve:",
+          "opciones": {
+            "A": "Para amplificar ADN.",
+            "B": "Para estudiar células malignas.",
+            "C": "Para diagnosticar anemias.",
+            "D": "Para no correr riesgos en el laboratorio."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 25,
+          "pregunta": "¿Cuál de estos métodos de inclusión es soluble en agua?:",
+          "opciones": {
+            "A": "Celoidina.",
+            "B": "Gelatina.",
+            "C": "Polietilenglicol.",
+            "D": "A y B son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 26,
+          "pregunta": "El servicio de prevención de riesgos laborales tendrá carácter:",
+          "opciones": {
+            "A": "Interdisciplinario.",
+            "B": "Administrativo.",
+            "C": "Temporal.",
+            "D": "Sanitario."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 27,
+          "pregunta": "¿Qué forma tiene la incisión que se realiza al cadáver para practicarle la autopsia?:",
+          "opciones": {
+            "A": "“T”.",
+            "B": "“Z”.",
+            "C": "“X”.",
+            "D": "“W”."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 28,
+          "pregunta": "La presencia de coilocitos en citología cervicovaginal es indicativa de:",
+          "opciones": {
+            "A": "Infección por Trichomonas.",
+            "B": "Infección por Candidas.",
+            "C": "Infección por Herpes Virus.",
+            "D": "Infección por Virus Papiloma Humano."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 29,
+          "pregunta": "Las secciones básicas en el laboratorio de Anatomía Patológica son:",
+          "opciones": {
+            "A": "Patologías quirúrgicas encargadas de las biopsias.",
+            "B": "Autopsias.",
+            "C": "Citodiagnóstico.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 30,
+          "pregunta": "En referencia a la trazabilidad en anatomía patológica, señale la respuesta correcta:",
+          "opciones": {
+            "A": "Incrementa los riesgos.",
+            "B": "Disminuye la productividad.",
+            "C": "Incrementa los costes por errores.",
+            "D": "Incrementa la garantía de calidad."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 31,
+          "pregunta": "Señale el elemento que NO forma parte de los equipos de protección individual (EPI) en un servicio de Anatomía Patológica:",
+          "opciones": {
+            "A": "Aparato portátil de detección de niveles altos de vapores de formol.",
+            "B": "Guantes anti corte.",
+            "C": "Pantalla facial.",
+            "D": "Mandil."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 32,
+          "pregunta": "¿Qué tipo de moléculas permite amplificar y analizar la PCR con transcripción inversa?:",
+          "opciones": {
+            "A": "ARNm.",
+            "B": "ADNc.",
+            "C": "ADNm.",
+            "D": "ADN polimerasa."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 33,
+          "pregunta": "Es una técnica para detectar iones férricos:",
+          "opciones": {
+            "A": "Método de azul de Turnbull.",
+            "B": "Método de Tirmann-Smeltzer.",
+            "C": "Técnica de azul perls.",
+            "D": "Todos lo son."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 34,
+          "pregunta": "La enfermedad de Wilson se relaciona con el pigmento:",
+          "opciones": {
+            "A": "Lipofucsina.",
+            "B": "Ceroide.",
+            "C": "Cobre.",
+            "D": "Hierro."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 35,
+          "pregunta": "El artículo 17 de la Constitución española establece que:",
+          "opciones": {
+            "A": "Toda persona tiene derecho a la libertad y a la seguridad.",
+            "B": "Todos los españoles mayores de edad tienen derecho a la libertad y seguridad.",
+            "C": "Todas las personas jurídicas tienen derecho a la libertad y seguridad.",
+            "D": "Todos los españoles tienen derecho a la libertad y seguridad."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 36,
+          "pregunta": "En los derrames de origen pleural las neoplasias más frecuentes suelen ser:",
+          "opciones": {
+            "A": "Ovario.",
+            "B": "Colon y recto.",
+            "C": "Pulmón y mama.",
+            "D": "Páncreas."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 37,
+          "pregunta": "En el proceso histológico de las biopsias endomiocárdicas por trasplante, ¿cuál de las siguientes repuestas es correcta?:",
+          "opciones": {
+            "A": "Todas las muestras se incluyen en parafina.",
+            "B": "Se debe incluir una muestra para microscopía electrónica.",
+            "C": "Se incluye una muestra para inmunofluorescencia y el resto, en parafina.",
+            "D": "Se congela todo el material."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 38,
+          "pregunta": "El lavado higiénico de manos se realiza…:",
+          "opciones": {
+            "A": "Con antisépticos durante 3 minutos.",
+            "B": "Con agua abundante.",
+            "C": "Con agua y jabón durante 30 segundos.",
+            "D": "Con povidona yodada."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 39,
+          "pregunta": "¿Cuál de los siguientes materiales no es objeto de estudio en un servicio de anatomía patológica?:",
+          "opciones": {
+            "A": "Extensiones citológicas.",
+            "B": "Citopunciones.",
+            "C": "Intraoperatorias.",
+            "D": "Heces."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 40,
+          "pregunta": "La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por:",
+          "opciones": {
+            "A": "Los Estatutos.",
+            "B": "La Constitución.",
+            "C": "Los Reglamentos.",
+            "D": "La Ley."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 41,
+          "pregunta": "NO es un tipo de tejido conjuntivo:",
+          "opciones": {
+            "A": "Tejido areolar.",
+            "B": "Tejido nervioso.",
+            "C": "Tejido adiposo.",
+            "D": "Tejido fibroso."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 42,
+          "pregunta": "El líquido descalcificador ideal debe reunir las siguientes cualidades:",
+          "opciones": {
+            "A": "Eliminar completamente los depósitos de calcio.",
+            "B": "No provocar efectos indeseables sobre los tejidos tratados.",
+            "C": "No interferir en los procesos de tinción.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 43,
+          "pregunta": "A la porción de tejido obtenido de un ser vivo se le llama:",
+          "opciones": {
+            "A": "Citología.",
+            "B": "Autopsia.",
+            "C": "Necropsia.",
+            "D": "Biopsia."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 44,
+          "pregunta": "Respecto a la “deszenkerinización”, señale la repuesta incorrecta:",
+          "opciones": {
+            "A": "Se debe hacer después de la tinción.",
+            "B": "Se debe hacer después de la hidratación.",
+            "C": "Sólo se debe hacer si el tejido ha sido fijado con B-5.",
+            "D": "Se debe hacer antes de la tinción."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 45,
+          "pregunta": "¿Cuál de los siguientes índices celulares de valoración hormonal establece el porcentaje de los tres tipos de células del epitelio escamoso (basal, intermedio y superficial)?:",
+          "opciones": {
+            "A": "Índice de cariopicnosis.",
+            "B": "Índice de eosinofilia.",
+            "C": "Índice de Papanicolau.",
+            "D": "Índice de maduración."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 46,
+          "pregunta": "En cuanto a la organización y distribución general del laboratorio:",
+          "opciones": {
+            "A": "Los procesadores de tejidos deben estar en una habitación aparte.",
+            "B": "Los microtomos y baños histológicos no tienen por qué estar en una zona iluminada o con iluminación artificial.",
+            "C": "Las baterías de coloración manual deben estar protegidas por una campana de extracción.",
+            "D": "A y B son correctas."
+          },
+          "respuesta_correcta": null,
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 47,
+          "pregunta": "Si la muestra se toma en la cara lateral de la vagina, servirá para:",
+          "opciones": {
+            "A": "Estudio de infección cérvico-vaginal.",
+            "B": "Estudio de la situación hormonal.",
+            "C": "Estudio de lesiones preneoplásicas.",
+            "D": "Estudio de posibles embarazos ectópicos."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 48,
+          "pregunta": "Uno de estos documentos no forma parte del contenido mínimo de la Historia Clínica:",
+          "opciones": {
+            "A": "El informe clínico de alta.",
+            "B": "La aplicación terapéutica de enfermería.",
+            "C": "Las órdenes médicas.",
+            "D": "El parte de baja médica."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 49,
+          "pregunta": "La presencia de cuerpos de inclusión a nivel nuclear que le dan al núcleo un aspecto de cristal esmerilado es característico de la infección genital por:",
+          "opciones": {
+            "A": "Herpes Virus tipo II.",
+            "B": "Candidiasis.",
+            "C": "Trichomonas vaginalis.",
+            "D": "Actinomyces."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 50,
+          "pregunta": "¿Cuál de estas células son habituales en el esputo?:",
+          "opciones": {
+            "A": "Células del epitelio escamoso de las vías aerodigestivas y macrófagos.",
+            "B": "Fibromioblastos.",
+            "C": "Linfoblastos.",
+            "D": "Células mesoteliales."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 51,
+          "pregunta": "El estudio de los tejidos enfermos que constituyen el objeto de la histopatología se realiza a partir de:",
+          "opciones": {
+            "A": "Tejidos normales.",
+            "B": "Largas técnicas histológicas.",
+            "C": "Técnicas inmunohistoquímicas.",
+            "D": "Material anatomopatólogico procedente de biopsias, necropsias, extensiones citológicas o patología experimental."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 52,
+          "pregunta": "¿Cuáles son las células que han de estar presentes en un esputo para que éste se considere valorable?:",
+          "opciones": {
+            "A": "Células escamosas.",
+            "B": "Células caliciformes.",
+            "C": "Macrófagos.",
+            "D": "Cilíndricas ciliadas."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 53,
+          "pregunta": "Para que una muestra citológica cervical sea satisfactoria debe incluir (marque la opción correcta):",
+          "opciones": {
+            "A": "Células endometriales.",
+            "B": "Células endocervicales.",
+            "C": "Células vaginales.",
+            "D": "Células transicionales."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 54,
+          "pregunta": "Indique qué tipo de microtomo se utiliza para cortar material fijado pero sin “procesar”:",
+          "opciones": {
+            "A": "Tipo Minot.",
+            "B": "Vibratomo.",
+            "C": "De balanceo.",
+            "D": "Ultramicrotomo."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 55,
+          "pregunta": "Señale la respuesta correcta. El microtomo tipo Minot:",
+          "opciones": {
+            "A": "Es un microtomo de rotación.",
+            "B": "Es un microtomo de cuchilla móvil.",
+            "C": "Es un microtomo de oscilación.",
+            "D": "Es un microtomo de balanceo."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 56,
+          "pregunta": "Para la esterilización de material termosensible, utilizaremos:",
+          "opciones": {
+            "A": "Formaldehído al 40% durante 12 horas.",
+            "B": "Los compuestos fenólicos.",
+            "C": "Glutaraldehído al 2% con pH entre 7,5 y 8,5.",
+            "D": "Compuestos clorados."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 57,
+          "pregunta": "En los frotis citolíticos es característico encontrar:",
+          "opciones": {
+            "A": "Bacilos de Döderlein.",
+            "B": "Células superficiales.",
+            "C": "Células basales.",
+            "D": "Células trofoblásticas."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 58,
+          "pregunta": "¿Cuál de las siguientes infecciones pulmonares NO está producida por un hongo?:",
+          "opciones": {
+            "A": "La criptococosis.",
+            "B": "La histoplasmosis.",
+            "C": "La candidiasis.",
+            "D": "La hidatidosis."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 59,
+          "pregunta": "Las operaciones de mantenimiento encaminadas a prevenir fallos, deterioro, averías o mal funcionamiento de los equipos se denomina:",
+          "opciones": {
+            "A": "Correctivo.",
+            "B": "Preventivo.",
+            "C": "Calibración.",
+            "D": "Operativo."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 60,
+          "pregunta": "El tipo de biopsia utilizada preferentemente para valoración del injerto previo al trasplante es:",
+          "opciones": {
+            "A": "Biopsia percutánea con aguja del calibre 10G.",
+            "B": "Biopsia quirúrgica en cuña.",
+            "C": "Biopsia transyugular.",
+            "D": "Biopsia percutánea con aguja del calibre 20G."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 61,
+          "pregunta": "La ley General de Sanidad establece que cada Comunidad Autónoma elaborará:",
+          "opciones": {
+            "A": "Un plan de proyectos.",
+            "B": "Un plan de estructuración.",
+            "C": "Un plan de salud.",
+            "D": "Un plan de servicios."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 62,
+          "pregunta": "Señale la respuesta correcta:",
+          "opciones": {
+            "A": "La parafina y el alcohol son miscibles.",
+            "B": "El formol y la parafina son miscibles.",
+            "C": "La parafina es miscible con disolventes orgánicos.",
+            "D": "Ninguna es correcta."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 63,
+          "pregunta": "Es función de los Técnicos Especialistas:",
+          "opciones": {
+            "A": "Auxiliar al personal médico en las intervenciones quirúrgicas.",
+            "B": "Realizar exploraciones manuales prescritas por el médico.",
+            "C": "Inventario y control de los suministros de piezas de repuesto y material necesario para el correcto funcionamiento y realización de las técnicas.",
+            "D": "Realizar labores de identificación del recién nacido."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 64,
+          "pregunta": "Dentro de las características que presentan las coloraciones citoplasmáticas se encuentra que:",
+          "opciones": {
+            "A": "Proporcionan un tinte difuso y empastan poco.",
+            "B": "Son de uso cómodo.",
+            "C": "Permiten un estudio detallado de las estructuras citoplasmáticas.",
+            "D": "Todas son características."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 65,
+          "pregunta": "Las responsabilidades del TEAP están reguladas según:",
+          "opciones": {
+            "A": "Real Decreto 767/2014.",
+            "B": "Real Decreto 767/2010.",
+            "C": "Real Decreto 141/2014.",
+            "D": "Real Decreto 786/2000."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 66,
+          "pregunta": "Una muestra de Biobanco de tumor y tejido sano se debe enviar en condiciones de:",
+          "opciones": {
+            "A": "Asepsia.",
+            "B": "Esterilidad.",
+            "C": "En fresco.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 67,
+          "pregunta": "Para poder actuar como servicio de prevención de riesgos, las entidades especializadas:",
+          "opciones": {
+            "A": "Deberán ser objeto de una acreditación por la autoridad estatal.",
+            "B": "No precisan de ningún tipo de acreditación.",
+            "C": "Deberán ser objeto de una acreditación por la autoridad laboral.",
+            "D": "Deberán ser objeto de una acreditación por la autoridad local."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 68,
+          "pregunta": "La desparafinación se consigue sometiendo los cortes a baños sucesivos de:",
+          "opciones": {
+            "A": "Isopropanol.",
+            "B": "Xileno.",
+            "C": "Carbonato de litio.",
+            "D": "Metanol."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 69,
+          "pregunta": "Se denomina cromógeno a:",
+          "opciones": {
+            "A": "Toda sustancia química que en su estructura posee un anillo bencénico.",
+            "B": "Sustancia química que potencia la acción del colorante.",
+            "C": "Sustancia formada por el cromóforo más el anillo bencénico.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 70,
+          "pregunta": "El laboratorio de Anatomía Patológica debe disponer de un control de calidad interno para evaluar sus actividades. ¿Cómo?:",
+          "opciones": {
+            "A": "Realizando tareas cruzadas entre analistas del mismo laboratorio.",
+            "B": "Analizando muestras que nos suministren otras unidades de Anatomía Patológica externas.",
+            "C": "Análisis duplicados de una misma muestra por distintos analistas del mismo laboratorio.",
+            "D": "Las respuestas A y C son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 71,
+          "pregunta": "¿Qué tipos de congelación se utilizan en un Biobanco?:",
+          "opciones": {
+            "A": "Congeladores verticales a -80ºC.",
+            "B": "Contenedores de nitrógeno líquido a -196ºC.",
+            "C": "A y B son ciertas.",
+            "D": "A y B son incorrectas."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 72,
+          "pregunta": "¿Cuál de los siguientes métodos de tinción se emplea para la identificación de hongos?:",
+          "opciones": {
+            "A": "Gram.",
+            "B": "Masson-Fontana.",
+            "C": "Grocott.",
+            "D": "PAS."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 73,
+          "pregunta": "El líquido procedente de la cavidad peritoneal se denomina:",
+          "opciones": {
+            "A": "Ascítico.",
+            "B": "Alveolar.",
+            "C": "Pericárdico.",
+            "D": "Pleural."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 74,
+          "pregunta": "En microscopía electrónica, la orientación del bloque debe hacerse:",
+          "opciones": {
+            "A": "Cuando la resina esté líquida.",
+            "B": "Después de aplicar calor.",
+            "C": "Después de añadir el “endurecedor”.",
+            "D": "Después de añadir el “acelerador”."
+          },
+          "respuesta_correcta": null,
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 75,
+          "pregunta": "Una muestra de médula ósea se considera como:",
+          "opciones": {
+            "A": "Biopsia incisional.",
+            "B": "Biopsia excisional.",
+            "C": "Biopsia estereotáxica.",
+            "D": "Pieza quirúrgica."
+          },
+          "respuesta_correcta": "A",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 76,
+          "pregunta": "Si al teñir una bacteria con la tinción de Gram, ésta aparece de color rojo, se puede decir que la bacteria es:",
+          "opciones": {
+            "A": "Gram +.",
+            "B": "Gram -.",
+            "C": "AAR.",
+            "D": "Bacilo."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 77,
+          "pregunta": "El xileno:",
+          "opciones": {
+            "A": "Es un agente deshidratante.",
+            "B": "Tiende a volver blanquecino el tejido.",
+            "C": "El xileno comercial es una mezcla de dos isómeros.",
+            "D": "Aclara desde el alcohol de 70º."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 78,
+          "pregunta": "¿Dónde se almacena principalmente el glucógeno?:",
+          "opciones": {
+            "A": "Bazo.",
+            "B": "Hígado.",
+            "C": "Páncreas.",
+            "D": "Riñones."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 79,
+          "pregunta": "Una muestra de colectomía con adenopatías se considera:",
+          "opciones": {
+            "A": "Biopsia incisional.",
+            "B": "Biopsia estereotáxica.",
+            "C": "Biopsia excisional.",
+            "D": "Pieza quirúrgica."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 80,
+          "pregunta": "Las células naviculares son típicas de:",
+          "opciones": {
+            "A": "Infancia.",
+            "B": "Pubertad.",
+            "C": "Embarazo.",
+            "D": "Menopausia."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 81,
+          "pregunta": "¿Cuál es la sal argéntica más utilizada?:",
+          "opciones": {
+            "A": "Cloruro de oro.",
+            "B": "Nitrato de plata.",
+            "C": "Sales de cromo.",
+            "D": "Ninguna es correcta."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 82,
+          "pregunta": "Durante la autopsia clínica, ¿para qué se emplean las tijeras con una punta roma y otra aguzada?:",
+          "opciones": {
+            "A": "Abrir el intestino, estómago y corazón.",
+            "B": "Abrir arterias coronarias y vías biliares.",
+            "C": "Cortar los nervios craneales.",
+            "D": "Separar la cápsula suprarrenal del riñón."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 83,
+          "pregunta": "Las Trichomonas que se detectan en citología cervicovaginal son:",
+          "opciones": {
+            "A": "Virus.",
+            "B": "Bacterias.",
+            "C": "Hongos.",
+            "D": "Protozoos."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 84,
+          "pregunta": "La técnica de saneamiento que tiene por objeto destruir microorganismos patógenos se denomina:",
+          "opciones": {
+            "A": "Limpieza.",
+            "B": "Desinfección.",
+            "C": "Esterilización.",
+            "D": "Todas las anteriores son correctas."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 85,
+          "pregunta": "Si en una extensión citológica de vías respiratorias vemos numerosos eosinófilos, cristales de Charcot-Leiden y espirales de Curschman, el diagnóstico a sugerir es:",
+          "opciones": {
+            "A": "Bronquitis inespecífica.",
+            "B": "Tuberculosis.",
+            "C": "Asma.",
+            "D": "Nocardiosis."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 86,
+          "pregunta": "¿Cuál es la temperatura ideal para realizar una descalcificación?:",
+          "opciones": {
+            "A": "En torno a 15ºC.",
+            "B": "En torno a 40ºC.",
+            "C": "En torno a 45ºC.",
+            "D": "En torno a 25ºC."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 87,
+          "pregunta": "En el Estatuto Marco no figura como retribuciones complementarias:",
+          "opciones": {
+            "A": "El complemento de destino.",
+            "B": "El complemento específico.",
+            "C": "El complemento de productividad.",
+            "D": "Las pagas extraordinarias."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 88,
+          "pregunta": "La toma de muestra de líquido sinovial se denomina:",
+          "opciones": {
+            "A": "Toracocentesis.",
+            "B": "Paracocentesis.",
+            "C": "Artrocentesis.",
+            "D": "Paracentesis."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 89,
+          "pregunta": "Señale la respuesta correcta acerca de la recepción de una muestra de grandes dimensiones y su tratamiento:",
+          "opciones": {
+            "A": "Para órganos sólidos se realizarán cortes seriados de las piezas separando e incluyendo cada sección obtenida en un recipiente independiente.",
+            "B": "Las vísceras huecas nunca se podrán abrir.",
+            "C": "En las lesiones quísticas es aconsejable extraer por punción su contenido para estudio citológico y/o bioquímico y reemplazarlo por formol.",
+            "D": "En las piezas de gran tamaño es siempre aconsejable fijarlas mediante calor."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 90,
+          "pregunta": "¿Cómo se denomina la citología por raspado de piel?:",
+          "opciones": {
+            "A": "Test por rasurado de la lesión.",
+            "B": "Test de tipo “Punch”.",
+            "C": "Test por raspado.",
+            "D": "Test de Tzank."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 91,
+          "pregunta": "No es una complicación de la PAAF:",
+          "opciones": {
+            "A": "Diseminación del tumor al pinchar.",
+            "B": "Hematomas.",
+            "C": "Quilotórax.",
+            "D": "Desmayo."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 92,
+          "pregunta": "En la autopsia judicial:",
+          "opciones": {
+            "A": "Quien ordena la práctica de la autopsia es el juez.",
+            "B": "Se ordena siempre que exista una muerte violenta.",
+            "C": "Siempre que se tenga un interés docente y científico.",
+            "D": "Las respuestas A y B son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 93,
+          "pregunta": "¿Cuál de las infecciones en el aparato genital femenino se engloba en las bacterianas?:",
+          "opciones": {
+            "A": "Trichomonas vaginalis.",
+            "B": "Gardnerella vaginalis.",
+            "C": "Cándida albicans.",
+            "D": "Herpes genital."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 94,
+          "pregunta": "En relación a los riesgos por agentes químicos, señale la respuesta correcta:",
+          "opciones": {
+            "A": "Los efectos de las sustancias tóxicas en el organismo son siempre irreversibles.",
+            "B": "Los daños a la salud que se manifiestan de forma inmediata se denominan “toxicidad crónica”.",
+            "C": "El adecuado almacenamiento de sustancias tóxicas es una medida preventiva frente a las sustancias químicas.",
+            "D": "No son necesarios los equipos de protección individual (EPI) en el manejo de sustancias tóxicas."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 95,
+          "pregunta": "Las células “Clue” son típicas de la infección por:",
+          "opciones": {
+            "A": "Cándida Albicans.",
+            "B": "Actinomyces.",
+            "C": "Clamydias.",
+            "D": "Gardnerella vaginallis."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 96,
+          "pregunta": "En un frotis cervicovaginal se pueden observar macrófagos en pacientes:",
+          "opciones": {
+            "A": "Menopaúsicas.",
+            "B": "Con procesos inflamatorios.",
+            "C": "Durante los días menstruales.",
+            "D": "Todas son correctas."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 97,
+          "pregunta": "Según la Ley 12/2014, de 16 de diciembre, de Transparencia y Participación Ciudadana de la Comunidad Autónoma de la Región de Murcia, ¿a cuáles de las siguientes no se aplica la Ley de Transparencia?:",
+          "opciones": {
+            "A": "A las Universidades Públicas.",
+            "B": "A los organismos autónomos.",
+            "C": "A las sociedades mercantiles con una participación de la Administración de más del 25%.",
+            "D": "A las fundaciones del sector público."
+          },
+          "respuesta_correcta": "C",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 98,
+          "pregunta": "En una citología cervicovaginal en una mujer postmenopáusica encontramos habitualmente:",
+          "opciones": {
+            "A": "Un frotis con efecto estrogénico.",
+            "B": "Un frotis atrófico.",
+            "C": "Un frotis intermedio.",
+            "D": "Un frotis postovulatorio."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 99,
+          "pregunta": "La ley 55/2003, de 16 de diciembre, establece que las faltas muy graves prescriben, desde que se hubieran cometido:",
+          "opciones": {
+            "A": "A los dos años.",
+            "B": "A los tres años.",
+            "C": "A los cinco años.",
+            "D": "A los cuatro años."
+          },
+          "respuesta_correcta": "D",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        },
+        {
+          "numero": 100,
+          "pregunta": "¿Cuál de los siguientes tipos celulares pertenece al sistema inmunitario?:",
+          "opciones": {
+            "A": "Macrófagos.",
+            "B": "Macrófagos y granulocitos.",
+            "C": "Granulocitos y lisozimas.",
+            "D": "Macrófagos y hematíes."
+          },
+          "respuesta_correcta": "B",
+          "estado_respuesta": "plantilla_aportada_pendiente_confirmar_definitiva"
+        }
+      ],
+      "anuladas": [
+        74,
+        46
+      ],
+      "sustituciones_verificadas": false,
+      "nota_correccion": "Corrección basada en la plantilla aportada; no se ha comprobado su carácter definitivo. Las anuladas no puntúan.",
+      "nota": "Cuestionario de 2023, modelo A, con plantilla de respuestas aportada por el usuario."
     },
     {
       "id": "SAS-2024-APES",
