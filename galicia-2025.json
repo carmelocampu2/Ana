@@ -1,0 +1,1733 @@
+{
+  "titulo": "SERGAS · Técnico/a Superior en Anatomía Patológica y Citología · Galicia 2025",
+  "origen_traduccion": "Traducción al castellano aportada por el usuario (sin cotejo completo con los originales gallegos)",
+  "origen_respuestas": "Plantilla definitiva publicada por el SERGAS · 16/07/2025",
+  "parte_especifica": [
+    {
+      "numero": 1,
+      "referencia": "E1",
+      "pregunta": "¿Cuáles son las células de las muestras citológicas que se degeneran muy rápidamente y suelen estar presentes en cantidades muy bajas?",
+      "opciones": {
+        "A": "Líquido cefalorraquídeo.",
+        "B": "Orina.",
+        "C": "Líquido ascítico.",
+        "D": "A y B son correctas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 2,
+      "referencia": "E2",
+      "pregunta": "¿Cuál no es un pigmento hemoglobinógeno?",
+      "opciones": {
+        "A": "Hemosiderina.",
+        "B": "Hematoidina.",
+        "C": "Melanina.",
+        "D": "Bilirrubina."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 3,
+      "referencia": "E3",
+      "pregunta": "La hematoxilina de Harris es una coloración:",
+      "opciones": {
+        "A": "Por impregnación.",
+        "B": "Indirecta en un tiempo.",
+        "C": "Regresiva.",
+        "D": "Progresiva."
+      },
+      "respuesta_correcta": null,
+      "es_reserva": false,
+      "estado_respuesta": "anulada_por_plantilla_definitiva"
+    },
+    {
+      "numero": 4,
+      "referencia": "E4",
+      "pregunta": "La sección incluida en parafina, al extenderla en el baño de flotación, el tejido se desintegra rápidamente. ¿Cuál es el motivo principal en relación con el proceso de inclusión?",
+      "opciones": {
+        "A": "La muestra fue fijada en exceso.",
+        "B": "La muestra fue poco procesada (aún contiene disolvente orgánico).",
+        "C": "Material no válido para inclusión en parafina: la muestra debió ser procesada como citología.",
+        "D": "La muestra fue procesada en exceso."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 5,
+      "referencia": "E5",
+      "pregunta": "Indique cuál es una sustancia química que ejerce su acción sobre las superficies y los objetos inanimados alterándolos lo menos posible:",
+      "opciones": {
+        "A": "Antiséptico.",
+        "B": "Esterilización.",
+        "C": "Desinfectante.",
+        "D": "Insecticida."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 6,
+      "referencia": "E6",
+      "pregunta": "¿Qué coloración permite distinguir entre grasas neutras y ácidas?",
+      "opciones": {
+        "A": "Sudán IV.",
+        "B": "PAS.",
+        "C": "Sudán Negro.",
+        "D": "Azul de Nilo."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 7,
+      "referencia": "E7",
+      "pregunta": "¿Cuántos marcadores se pueden analizar de forma simultánea en la citometría de flujo?",
+      "opciones": {
+        "A": "Hasta un máximo de 10.",
+        "B": "Hasta un máximo de 20.",
+        "C": "Hasta un máximo de 30.",
+        "D": "Se pueden superar los 40 marcadores."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 8,
+      "referencia": "E8",
+      "pregunta": "¿Qué tiñe el método de Levaditi?",
+      "opciones": {
+        "A": "BAAR.",
+        "B": "Parásitos.",
+        "C": "Hongos.",
+        "D": "Espiroquetas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 9,
+      "referencia": "E9",
+      "pregunta": "¿Por qué debemos usar los sistemas (ThinPrep / SurePath) en medio líquido para la recogida, transporte y preparación de muestras ginecológicas y no ginecológicas? Indique la falsa:",
+      "opciones": {
+        "A": "Disminución/eliminación de la desecación de material.",
+        "B": "Mayor sensibilidad diagnóstica.",
+        "C": "Celularidad no uniforme.",
+        "D": "Posibilidad de reutilizar las muestras para otras técnicas."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 10,
+      "referencia": "E10",
+      "pregunta": "¿Qué tipo de sesgo ocurre cuando el diseño del estudio favorece una hipótesis específica?",
+      "opciones": {
+        "A": "Sesgo de selección.",
+        "B": "Sesgo de confirmación.",
+        "C": "Sesgo de información.",
+        "D": "Sesgo de memoria."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 11,
+      "referencia": "E11",
+      "pregunta": "¿Cuál es el método más utilizado y recomendable en citología exfoliativa?",
+      "opciones": {
+        "A": "Diff-Quick.",
+        "B": "Hematoxilina-eosina.",
+        "C": "May Grünwald-Giemsa.",
+        "D": "Papanicolaou."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 12,
+      "referencia": "E12",
+      "pregunta": "Un técnico está procesando un tejido denso, como el hepático, y sabe que la parafina utilizada tiene un punto de fusión de 58 °C. ¿Cuál de las siguientes combinaciones de ajustes en las etapas de deshidratación e impregnación sería la más adecuada para garantizar una infiltración homogénea y evitar artefactos en el corte, considerando esta propiedad de la parafina?",
+      "opciones": {
+        "A": "Deshidratación rápida con alcohol al 100% en una sola etapa e impregnación a 55 °C durante 2 horas.",
+        "B": "Deshidratación progresiva con alcoholes (70%, 95%, 100%) e impregnación a 60 °C durante 4 horas.",
+        "C": "Deshidratación con alcohol al 70% prolongada e impregnación a 58 °C durante 3 horas.",
+        "D": "Deshidratación omitiendo el alcohol al 95% e impregnación a 62 °C durante 5 horas."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 13,
+      "referencia": "E13",
+      "pregunta": "La imagen final del microscopio óptico compuesto, proporcionada por el efecto combinado de objetivos y oculares es:",
+      "opciones": {
+        "A": "Aumentada, derecha y virtual.",
+        "B": "Aumentada, invertida y virtual.",
+        "C": "Aumentada, derecha y real.",
+        "D": "Aumentada, invertida y real."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 14,
+      "referencia": "E14",
+      "pregunta": "Un nucleótido está formado por:",
+      "opciones": {
+        "A": "Fosfato, ribosa y oxígeno.",
+        "B": "Ácido desoxirribonucleico, azúcar y H2O2.",
+        "C": "Ácido ribonucleico, base nitrogenada y lípidos.",
+        "D": "Grupo fosfato, base nitrogenada y pentosa."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 15,
+      "referencia": "E15",
+      "pregunta": "¿Qué resultados se pueden obtener en una muestra citológica en la tinción de May Grünwald Giemsa?",
+      "opciones": {
+        "A": "Nucléolo púrpura.",
+        "B": "Gránulos eosinófilos rosados.",
+        "C": "Eritrocitos maduros naranja rosado.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": null,
+      "es_reserva": false,
+      "estado_respuesta": "anulada_por_plantilla_definitiva"
+    },
+    {
+      "numero": 16,
+      "referencia": "E16",
+      "pregunta": "¿Qué anticuerpo se utiliza en inmunohistoquímica como índice de proliferación celular?",
+      "opciones": {
+        "A": "Ki67.",
+        "B": "MIB-1.",
+        "C": "p40.",
+        "D": "A y B son correctas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 17,
+      "referencia": "E17",
+      "pregunta": "Dentro de los grupos fundamentales de colorantes, indique cuál es incorrecto:",
+      "opciones": {
+        "A": "Ácidos.",
+        "B": "Neutros.",
+        "C": "Diferentes.",
+        "D": "Metacromáticos."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 18,
+      "referencia": "E18",
+      "pregunta": "Indique la respuesta correcta en relación a la sustancia amiloide:",
+      "opciones": {
+        "A": "Es una sustancia insoluble en agua.",
+        "B": "Es una sustancia que naturalmente está presente en el cuerpo humano.",
+        "C": "En fresco aparece como una sustancia rosada.",
+        "D": "En las coloraciones con hematoxilina aparece como un material azulado acelular."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 19,
+      "referencia": "E19",
+      "pregunta": "Dentro de la célula hay una estructura llamada el nucléolo, que está formado por dos componentes principales, uno de material granular y otro de material fibrilar, ¿llamados?",
+      "opciones": {
+        "A": "Nucleonema y fibrillas nucleolares.",
+        "B": "Retículo granular y fibrillas nucleolares.",
+        "C": "Nucleolonema y pars amorfa.",
+        "D": "Nucleoide granular y pars amorfa."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 20,
+      "referencia": "E20",
+      "pregunta": "La teoría celular define la célula como la unidad morfológica y funcional de los seres vivos. Esta teoría que fue propuesta en el siglo XIX, constituyó uno de los conceptos biológicos más importantes y unificadores de la Citología. ¿Quién formularon esta teoría celular?",
+      "opciones": {
+        "A": "Robert Hooke y Alexander Meisels.",
+        "B": "Anton van Leeuwenhoek y Charles Darwin.",
+        "C": "Mathias Schleiden y Theodor Schwann.",
+        "D": "Gregor Mendel y Carl Zeiss."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 21,
+      "referencia": "E21",
+      "pregunta": "De las siguientes afirmaciones, ¿cuál es la correcta?",
+      "opciones": {
+        "A": "El músculo se corta transversalmente en congelación y longitudinalmente en microscopía electrónica.",
+        "B": "La biopsia renal y la piel se cortan en el micrótomo para hacer la inmunofluorescencia directa.",
+        "C": "El FISH, hibridación fluorescente in situ, se corta siempre en el criostato.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 22,
+      "referencia": "E22",
+      "pregunta": "En relación a la citología de la vulva y vagina, ¿cuál es la localización más frecuente de la adenosis vaginal?",
+      "opciones": {
+        "A": "En el tercio inferior de la vagina y en su cara posterior.",
+        "B": "En el tercio superior de la vagina y en su cara posterior.",
+        "C": "En el tercio superior de la vagina y en su cara anterior.",
+        "D": "En el tercio inferior de la vagina y en su cara anterior."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 23,
+      "referencia": "E23",
+      "pregunta": "Según el art. 2 de la Ley 11/2007, del 27 de julio, gallega de prevención y el tratamiento integral de la violencia de género, ¿cuál es el ámbito de aplicación de la ley?:",
+      "opciones": {
+        "A": "Las medidas contempladas en la presente ley serán de aplicación a todas las mujeres que vivan, residan o trabajen en España y que se encuentren en una situación de violencia de género, así como a sus hijas e hijos y a otras personas dependientes de ellas, víctimas directas e indirectas.",
+        "B": "Las medidas contempladas en la presente ley serán de aplicación a las personas que vivan, residan o trabajen en Galicia y que se encuentren en una situación de violencia, así como a sus hijas e hijos y a otras personas dependientes de ellas, víctimas directas e indirectas.",
+        "C": "Las medidas contempladas en la presente ley serán de aplicación a todas las mujeres que vivan, residan o trabajen en Galicia y que se encuentren en una situación de violencia de género, pero no a sus hijas e hijos ni a otras personas dependientes de ellas, víctimas directas y no indirectas.",
+        "D": "Las medidas contempladas en la presente ley serán de aplicación a todas las mujeres que vivan, residan o trabajen en Galicia y que se encuentren en una situación de violencia de género, así como a sus hijas e hijos y a otras personas dependientes de ellas, víctimas directas e indirectas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 24,
+      "referencia": "E24",
+      "pregunta": "Durante la preparación de un bloque de parafina en la estación de inclusión, se observa que la muestra de tejido no se integra uniformemente con la parafina circundante, resultando en un bloque heterogéneo con áreas de separación visibles. ¿Cuál de las siguientes es la causa más probable de este problema?",
+      "opciones": {
+        "A": "La pieza de tejido se enfrió demasiado tras ser retirada del baño de parafina, impidiendo una infiltración homogénea antes de la solidificación.",
+        "B": "La muestra fue insuficientemente deshidratada, dejando residuos de agua que repelen la parafina y generan zonas no infiltradas.",
+        "C": "La temperatura del baño de parafina excedió los 65 °C provocando una solidificación desigual al contacto con el molde frío.",
+        "D": "El tiempo de infiltración en parafina fue excesivo, causando una sobresaturación del tejido que altera su cohesión con la matriz."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 25,
+      "referencia": "E25",
+      "pregunta": "En el caso de solicitar receptores hormonales en un bloque celular, tendríamos que realizar fijación controlada en la determinación de:",
+      "opciones": {
+        "A": "Estrógenos y progesterona.",
+        "B": "HER2.",
+        "C": "p53.",
+        "D": "A y B son correctas."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 26,
+      "referencia": "E26",
+      "pregunta": "¿Cómo valoramos el material durante la realización de la PAAF?",
+      "opciones": {
+        "A": "Con cristales teñidos con hematoxilina eosina.",
+        "B": "Con la citología en medio líquido teñida en Diff Quick.",
+        "C": "Con el bloque celular teñido con Papanicolaou.",
+        "D": "Con cristales teñidos en Diff Quick."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 27,
+      "referencia": "E27",
+      "pregunta": "¿En qué fecha se publicó una versión revisada de la norma ISO 15189 con respecto a la versión de 2012?",
+      "opciones": {
+        "A": "El 6 de diciembre de 2022.",
+        "B": "El 26 de febrero de 2020.",
+        "C": "El 6 de diciembre de 2018.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 28,
+      "referencia": "E28",
+      "pregunta": "Sobre las PAAF de ganglio linfático, indique lo que no es cierto:",
+      "opciones": {
+        "A": "Se pueden realizar con control radiológico y por palpación directa del ganglio.",
+        "B": "No se puede obtener material para estudios de FISH y moleculares.",
+        "C": "Se pueden obtener bloques celulares, extensiones y citología líquida.",
+        "D": "Se puede realizar diagnóstico definitivo con ellas."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 29,
+      "referencia": "E29",
+      "pregunta": "¿Qué grosor deben tener los cortes para la realización de las técnicas de impregnación argéntica?",
+      "opciones": {
+        "A": "15 micras.",
+        "B": "5 micras.",
+        "C": "8 micras.",
+        "D": "Lo más delgado posible."
+      },
+      "respuesta_correcta": null,
+      "es_reserva": false,
+      "estado_respuesta": "anulada_por_plantilla_definitiva"
+    },
+    {
+      "numero": 30,
+      "referencia": "E30",
+      "pregunta": "En una muestra de orina obtenida de 24 horas de un paciente de 35 años con hematuria y antecedentes de exposición a aguas dulces en África subsahariana, se observan en el examen citológico estructuras ovaladas con una espina terminal característica. ¿Cuál sería el agente etiológico más probable identificado en esta muestra?",
+      "opciones": {
+        "A": "Huevos de Escherichia coli.",
+        "B": "Huevos de Schistosoma haematobium.",
+        "C": "Huevos de Echinococcus granulosus.",
+        "D": "Huevos de cisticercos."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 31,
+      "referencia": "E31",
+      "pregunta": "¿Cuál es el fijador indicado para el estudio histoquímico de las proteínas?",
+      "opciones": {
+        "A": "B5.",
+        "B": "Tetróxido de osmio.",
+        "C": "Alcohol etílico.",
+        "D": "Formol."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 32,
+      "referencia": "E32",
+      "pregunta": "Dimensiones de la calidad asistencial:",
+      "opciones": {
+        "A": "Calidad científico-técnica.",
+        "B": "Satisfacción de la persona usuaria.",
+        "C": "Adecuación o idoneidad.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 33,
+      "referencia": "E33",
+      "pregunta": "La batería mínima de anticuerpos para inmunofluorescencia en patología renal de manera rutinaria debería incluir:",
+      "opciones": {
+        "A": "Cadenas ligeras, inmunoglobulinas (IgG, IgA, IgM) y factores del complemento (C3 y C1q).",
+        "B": "Inmunoglobulinas (IgG, IgE, IgM), factores del complemento (C3, C1q) y cadenas ligeras (kappa y lambda).",
+        "C": "Factores del complemento (C3, C1q) e inmunoglobulinas (IgA, IgM, IgG).",
+        "D": "Inmunoglobulinas (IgG, IgA, IgM) y cadenas ligeras (kappa y lambda)."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 34,
+      "referencia": "E34",
+      "pregunta": "¿Cuál es una de las ventajas del formaldehído?",
+      "opciones": {
+        "A": "Se consume durante el proceso de fijación.",
+        "B": "Excelente fijador para tejido adiposo y lípidos en general.",
+        "C": "Origina un precipitado cristalino birrefringente.",
+        "D": "Se transforma en ácido fórmico."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 35,
+      "referencia": "E35",
+      "pregunta": "En relación a una investigación científica, ¿qué diferencia principal existe entre el método inductivo y el método deductivo?",
+      "opciones": {
+        "A": "El método inductivo parte de lo general a lo particular, y el deductivo, de lo particular a lo general.",
+        "B": "El método inductivo se basa en la observación y la generalización, y el deductivo en la lógica y la inferencia.",
+        "C": "Ambos métodos utilizan la observación y la lógica de igual manera.",
+        "D": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 36,
+      "referencia": "E36",
+      "pregunta": "¿Qué característica distingue a la apoptosis de la necrosis?",
+      "opciones": {
+        "A": "La apoptosis es un proceso no programado.",
+        "B": "En la necrosis no hay pérdida de integridad de la membrana celular.",
+        "C": "La apoptosis no causa inflamación.",
+        "D": "En la necrosis el ADN es fragmentado en trozos de 185 pares de bases o múltiplos."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 37,
+      "referencia": "E37",
+      "pregunta": "En microscopía electrónica, ¿qué se utiliza como primer fijador?",
+      "opciones": {
+        "A": "Glutaraldehído en tampón cacodilato o fosfato al 5%.",
+        "B": "Glutaraldehído en tampón cacodilato al 10%.",
+        "C": "Tetróxido de osmio.",
+        "D": "Glutaraldehído en tampón cacodilato o fosfato entre 2,5% - 4%."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 38,
+      "referencia": "E38",
+      "pregunta": "¿Qué es el código fuente?",
+      "opciones": {
+        "A": "Es un programa que sirve para desarrollar sistemas informáticos y aplicaciones.",
+        "B": "Es el lenguaje concreto en el que está escrito el programa y sirve para expresar la secuencia de instrucciones que debe ejecutar dicho programa.",
+        "C": "Es un sistema codificado que ayuda al pensamiento computacional.",
+        "D": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 39,
+      "referencia": "E39",
+      "pregunta": "¿Qué agente químico se emplea para la descontaminación de material quirúrgico contaminado por priones?",
+      "opciones": {
+        "A": "Hipoclorito sódico o lejía.",
+        "B": "Hidróxido sódico 2 N o sosa cáustica.",
+        "C": "Las respuestas A y B son correctas.",
+        "D": "Orto-ftalaldehído."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 40,
+      "referencia": "E40",
+      "pregunta": "¿Cuál es el procedimiento idóneo para fijar tejidos por congelación?",
+      "opciones": {
+        "A": "Enfriado lento.",
+        "B": "Inmersión directa en nitrógeno líquido.",
+        "C": "Metiéndolo en el congelador.",
+        "D": "Isopentano a -50 °C."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 41,
+      "referencia": "E41",
+      "pregunta": "Usted como personal técnico de anatomía y citología, se le asigna la tarea de realizar el screening de las muestras ginecológicas, y uno de los aspectos que debe conocer es a qué porción del epitelio corresponde una lesión de CIN I:",
+      "opciones": {
+        "A": "Menor de 1/3 del espesor epitelial superior.",
+        "B": "Mayor de 1/3 del espesor epitelial inferior.",
+        "C": "Menor de 1/3 del espesor epitelial inferior.",
+        "D": "Mayor de 1/3 del espesor epitelial superior."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 42,
+      "referencia": "E42",
+      "pregunta": "En el proceso de preparación de muestras histológicas, ¿cuál de las siguientes características distingue mejor el uso de la celoidina frente a la infiltración en parafina y las resinas plásticas?",
+      "opciones": {
+        "A": "La celoidina requiere un tiempo de infiltración significativamente menor que la parafina y no necesita disolventes orgánicos adicionales.",
+        "B": "La celoidina es ideal para tejidos con alta densidad, como hueso no descalcificado, y permite cortes más gruesos sin fragmentación.",
+        "C": "A diferencia de las resinas plásticas, la celoidina es compatible con micrótomos de ultracorte y ofrece mayor resolución en microscopía electrónica.",
+        "D": "La celoidina se utiliza preferentemente en tejidos blandos, mientras que la parafina es más adecuada para estructuras calcificadas."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 43,
+      "referencia": "E43",
+      "pregunta": "Indique la respuesta incorrecta sobre la determinación de si un tumor es inestable mediante estudio inmunohistoquímico:",
+      "opciones": {
+        "A": "Determina la presencia de expresión de los genes reparadores del ADN (MLH1, MSH2, MSH6 y PMS2).",
+        "B": "Solo se puede determinar en neoplasias digestivas.",
+        "C": "Es importante valorar la expresión en las células que acompañan a la neoplasia (control interno).",
+        "D": "Da información sobre el gen reparador que falló, para valorar la posibilidad de un síndrome de Lynch."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 44,
+      "referencia": "E44",
+      "pregunta": "¿Con qué técnicas se pueden detectar los reordenamientos de ALK y ROS1?",
+      "opciones": {
+        "A": "ROS1 solo se puede estudiar por FISH.",
+        "B": "Siempre primero por IHQ o FISH, nunca empezando por NGS.",
+        "C": "La técnica de FISH solo sirve para confirmar casos IHQ no valorables.",
+        "D": "Con NGS inicial y confirmando por FISH o IHQ cuando tengamos un resultado no concluyente."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 45,
+      "referencia": "E45",
+      "pregunta": "De los siguientes procedimientos, ¿cuál es necesario para una autopsia clínica?",
+      "opciones": {
+        "A": "Consentimiento informado de estudio post-mortem, para la realización de autopsia firmado por los familiares o tutores del fallecido.",
+        "B": "Que el juez de guardia certifique que no es una autopsia médico-legal.",
+        "C": "El certificado de defunción de la funeraria.",
+        "D": "Ninguna respuesta de las anteriores es correcta."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 46,
+      "referencia": "E46",
+      "pregunta": "Según el Real Decreto 767/2014, de 12 de septiembre, por el que se establece el título de Técnico Superior en Anatomía Patológica y Citodiagnóstico y se fijan sus enseñanzas mínimas; en el artículo 5: \"Competencias profesionales, personales y sociales\", ¿qué competencia no está incluida para un/a técnico/a de anatomía patológica y citología?",
+      "opciones": {
+        "A": "Realizar la aproximación diagnóstica de muestras citológicas no ginecológicas, en función de los patrones celulares.",
+        "B": "Tallar y procesar muestras histológicas y citológicas, obteniendo preparaciones microscópicas de calidad adecuada para su estudio.",
+        "C": "Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional con sentido de la responsabilidad social.",
+        "D": "Todas las anteriores están incluidas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 47,
+      "referencia": "E47",
+      "pregunta": "La fuente de iluminación del microscopio electrónico de transmisión es:",
+      "opciones": {
+        "A": "Cañón de fotones.",
+        "B": "Cañón de protones.",
+        "C": "Cañón de neutrones.",
+        "D": "Cañón de electrones."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 48,
+      "referencia": "E48",
+      "pregunta": "Indique la respuesta correcta para la detección de BAAR:",
+      "opciones": {
+        "A": "Ziehl-Neelsen.",
+        "B": "PCR.",
+        "C": "Método de la Auramina-Rodamina.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 49,
+      "referencia": "E49",
+      "pregunta": "Según la característica, atributo o fenómeno que se pretende estudiar en el transcurso de una investigación científica, ¿qué tipo de variable es la cantidad de cortes de tejido realizados con el micrótomo?",
+      "opciones": {
+        "A": "Cualitativa nominal.",
+        "B": "Cuantitativa discreta.",
+        "C": "Cuantitativa continua.",
+        "D": "Cualitativa ordinal."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 50,
+      "referencia": "E50",
+      "pregunta": "¿Con qué se contrastan los núcleos si utilizamos Sudán Negro para teñir lípidos?",
+      "opciones": {
+        "A": "Hematoxilina de Harris.",
+        "B": "Reactivo de Schiff.",
+        "C": "Rojo Neutro.",
+        "D": "Azul de metileno."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 51,
+      "referencia": "E51",
+      "pregunta": "El aparato de Golgi está compuesto por una serie de discos o cisternas con una escasa luz en su interior y rodeadas por membranas. Estas cisternas se unen unas a otras formando conjuntos en forma de pilas de moneda. ¿Cómo se denominan?",
+      "opciones": {
+        "A": "Desmosomas.",
+        "B": "Peroxisomas.",
+        "C": "Dictiosomas.",
+        "D": "Pilacosomas."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 52,
+      "referencia": "E52",
+      "pregunta": "En la recogida de orina para citología si se le ha realizado una urografía, una cistoscopia o una instilación vesical, deberá:",
+      "opciones": {
+        "A": "Recoger la segunda orina de la mañana el mismo día de la prueba.",
+        "B": "Esperar al menos 15 días después de ella.",
+        "C": "A y B son ciertas.",
+        "D": "Todas son falsas."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 53,
+      "referencia": "E53",
+      "pregunta": "¿Cuáles son las medidas de control de calidad en histopatología?",
+      "opciones": {
+        "A": "Fase preanalítica.",
+        "B": "Fase analítica.",
+        "C": "Fase postanalítica.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 54,
+      "referencia": "E54",
+      "pregunta": "¿Cuál de los siguientes principios NO es parte de la ética de máximos según Dr. Diego Gracia Guillén (1989)?",
+      "opciones": {
+        "A": "Autonomía.",
+        "B": "Ética del deber.",
+        "C": "Beneficencia.",
+        "D": "A, b y c no pertenecen a la ética de máximos."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 55,
+      "referencia": "E55",
+      "pregunta": "Eres responsable de supervisar el equipo y los métodos utilizados en la sección de citodiagnóstico de un laboratorio. Durante una auditoría, te presentan los siguientes métodos de preparación de bloques celulares para evaluación y análisis citológico. Uno de ellos no está descrito según la SEAP. Identifica el método incorrecto:",
+      "opciones": {
+        "A": "Gel acuoso de agar-agar.",
+        "B": "Plasma-trombina.",
+        "C": "HistoGel.",
+        "D": "Gel de poliacrilamida."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 56,
+      "referencia": "E56",
+      "pregunta": "¿Qué tinción se conoce como panóptico?",
+      "opciones": {
+        "A": "Diff-Quick.",
+        "B": "Papanicolaou.",
+        "C": "May Grünwald-Giemsa.",
+        "D": "Shorr."
+      },
+      "respuesta_correcta": null,
+      "es_reserva": false,
+      "estado_respuesta": "anulada_por_plantilla_definitiva"
+    },
+    {
+      "numero": 57,
+      "referencia": "E57",
+      "pregunta": "Yo soy un técnico que trabajo en las secciones de tallado, inclusión y corte, solo tengo que tener conocimientos:",
+      "opciones": {
+        "A": "Y habilidades de lo que concierne a mi sección.",
+        "B": "De lo que hago en mi sección y de lo que hacen las otras secciones, donde me gustaría trabajar en un futuro.",
+        "C": "De lo que hago en mi sección y de lo que hacen otras secciones, ya que puede afectarles a sus resultados.",
+        "D": "De lo que hago en mi sección, lo que concierne a las otras secciones ya me lo enseñarán en horas de trabajo."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 58,
+      "referencia": "E58",
+      "pregunta": "Indique la respuesta verdadera, en cuanto a la inclusión de muestras:",
+      "opciones": {
+        "A": "Las estructuras quísticas deben quedar hacia abajo, intentando que quede una burbuja de aire en su cavidad, para que se vea que es cóncava.",
+        "B": "Las estructuras tubulares se incluirán longitudinalmente para que se vea la luz.",
+        "C": "Las muestras de consistencia heterogénea se dispondrán de tal forma, que se empiece a seccionar desde la zona de menor a la de mayor consistencia.",
+        "D": "En los fragmentos múltiples no importa su disposición, lo más importante es que no se superpongan unos encima de otros, para que al aplastarlos no se haga un artefacto."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 59,
+      "referencia": "E59",
+      "pregunta": "¿En qué parte del microscopio óptico compuesto especifica el medio de inmersión o el grosor de los cubreobjetos?",
+      "opciones": {
+        "A": "Oculares.",
+        "B": "Objetivo.",
+        "C": "Filtros.",
+        "D": "Diafragma."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 60,
+      "referencia": "E60",
+      "pregunta": "Según el artículo 2 \"Principios rectores\" de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a través de esta Ley se articula un conjunto integral de medidas encaminadas a alcanzar los siguientes fines. Indique cuál es la correcta:",
+      "opciones": {
+        "A": "Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.",
+        "B": "Consagrar derechos de las personas víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.",
+        "C": "Garantizar derechos económicos para las personas víctimas de violencia de género, con el fin de facilitar su integración social.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 61,
+      "referencia": "E61",
+      "pregunta": "¿Cuál sería el mejor control para el diagnóstico de HER2 mediante inmunohistoquímica?",
+      "opciones": {
+        "A": "Un tumor 3+.",
+        "B": "Un tumor 2+/1+.",
+        "C": "No hace falta poner control.",
+        "D": "Un tejido sin tumor."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 62,
+      "referencia": "E62",
+      "pregunta": "¿Cuál es el método idóneo para colorear fibrina, tejido muscular y citoplasmas celulares?",
+      "opciones": {
+        "A": "Rojo sirio.",
+        "B": "Tricrómico de Masson.",
+        "C": "Tricrómico de Gomori.",
+        "D": "Tricrómico de Mallory."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 63,
+      "referencia": "E63",
+      "pregunta": "¿Cuál de los siguientes marcadores en inmunocitoquímica es positivo en un adenocarcinoma pulmonar?",
+      "opciones": {
+        "A": "TTF-1.",
+        "B": "p40.",
+        "C": "Sinaptofisina.",
+        "D": "CD56."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 64,
+      "referencia": "E64",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre los ragocitos no es correcta?",
+      "opciones": {
+        "A": "Son un indicador de procesos inflamatorios autoinmunes.",
+        "B": "Se forman por la fagocitosis de complejos inmunes en neutrófilos.",
+        "C": "Su identificación requiere una tinción adecuada y observación en microscopio.",
+        "D": "Son específicos únicamente de la artritis reumatoide."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 65,
+      "referencia": "E65",
+      "pregunta": "Cuando estamos usando el explorador de archivos de Windows, ¿qué tecla o teclas podemos utilizar para seleccionar un gran número de archivos que no sean completamente correlativos, ayudándonos del ratón?",
+      "opciones": {
+        "A": "Las teclas \"Mayús\" y \"Ctrl\".",
+        "B": "Las teclas \"Alt\" y \"Mayús\".",
+        "C": "Solo la tecla \"Mayús\".",
+        "D": "Las teclas \"Alt\" y \"Ctrl\"."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 66,
+      "referencia": "E66",
+      "pregunta": "El National Nosocomial Infections Surveillance (NNIS) System define la infección nosocomial como:",
+      "opciones": {
+        "A": "Enfermedad localizada o sistémica que resulta de la reacción adversa a la presencia de agentes infecciosos o de sus toxinas y que estaban presentes, o en fase de incubación, en el momento de ingreso en el hospital.",
+        "B": "Es cualquier enfermedad causada por un agente infeccioso específico o sus productos tóxicos, que se manifiesta por la transmisión del mismo agente o sus productos, de una persona o animal infectados o de un reservorio a un huésped susceptible, en forma directa o indirecta por medio de un huésped intermediario, de naturaleza vegetal o animal, de un vector o del medio ambiente inanimado.",
+        "C": "Enfermedad localizada o sistémica que resulta de la reacción adversa a la presencia de agentes infecciosos o de sus toxinas y que no estaba presente, ni en fase de incubación, en el momento de ingreso en el hospital.",
+        "D": "Es la presencia continua de una enfermedad o un agente infeccioso dentro de una zona geográfica determinada; también puede denotar la prevalencia usual de una enfermedad particular dentro de dicha zona."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 67,
+      "referencia": "E67",
+      "pregunta": "¿Qué hematoxilina lleva glicerol?",
+      "opciones": {
+        "A": "Mayer.",
+        "B": "Ehrlich.",
+        "C": "Harris.",
+        "D": "Férrica."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 68,
+      "referencia": "E68",
+      "pregunta": "Con respecto a los hallazgos citológicos en las alteraciones hormonales, concretamente en el síndrome de Stein-Leventhal, señala cuál de las siguientes afirmaciones no es correcta:",
+      "opciones": {
+        "A": "También se llama enfermedad poliquística ovárica.",
+        "B": "Está relacionado con alteraciones del ciclo menstrual femenino.",
+        "C": "Afecta a mujeres más frecuentemente en edad reproductiva.",
+        "D": "Se presenta con hipermenorreas que aparecen debidas a alteraciones de la ovulación."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 69,
+      "referencia": "E69",
+      "pregunta": "Indique qué compuestos pueden inflamar sustancias combustibles o favorecer la amplitud de incendios ya declarados, dificultando su extinción:",
+      "opciones": {
+        "A": "Sustancias comburentes.",
+        "B": "Sustancias inflamables.",
+        "C": "Sustancias tóxicas.",
+        "D": "Sustancias explosivas."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 70,
+      "referencia": "E70",
+      "pregunta": "Según el artículo 19 \"Derecho a la atención integral\" de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, la atención multidisciplinar implicará especialmente (indique la incorrecta):",
+      "opciones": {
+        "A": "Atención sanitaria.",
+        "B": "Información a las víctimas.",
+        "C": "Atención psicológica.",
+        "D": "Apoyo social."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 71,
+      "referencia": "E71",
+      "pregunta": "Un técnico de anatomía patológica está procesando bloques de tejido cerebral embebido en parafina para un análisis histológico rutinario con tinción de hematoxilina y eosina. ¿Cuál de las siguientes combinaciones de condiciones de grosor de corte, temperatura del baño de flotación y estufado es la más adecuada para garantizar secciones de calidad, preservando la integridad del tejido y facilitando su análisis microscópico?",
+      "opciones": {
+        "A": "Grosor de 2-3 micras, baño de flotación a 60 °C y estufado a 45 °C durante 1 hora.",
+        "B": "Grosor de 4-6 micras, baño de flotación a menos de 40 °C y estufado a 37 °C-40 °C durante 30 minutos a 2 horas.",
+        "C": "Grosor de 8-10 micras, baño de flotación a 15 °C y estufado a 50 °C durante 3 horas.",
+        "D": "Grosor de 4-6 micras, baño de flotación a 45 °C-50 °C y estufado a 40 °C-45 °C durante 10 minutos."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 72,
+      "referencia": "E72",
+      "pregunta": "Una biopsia intraoperatoria es un estudio:",
+      "opciones": {
+        "A": "Vital.",
+        "B": "Postvital.",
+        "C": "Supravital.",
+        "D": "Ninguna de las respuestas anteriores."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 73,
+      "referencia": "E73",
+      "pregunta": "Las muestras de biopsia no deben exceder para la inclusión en el casete estándar:",
+      "opciones": {
+        "A": "Más de 4 mm de grosor para su buena inclusión y fijación.",
+        "B": "Más de 6 mm de grosor para su buena inclusión y fijación.",
+        "C": "Más de 6 dm de ancho para su buena inclusión y fijación.",
+        "D": "Más de 6 dm de diámetro para su buena inclusión y fijación."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 74,
+      "referencia": "E74",
+      "pregunta": "¿Qué término se utiliza para describir el sistema teórico-práctico de Beauchamp y Childress?",
+      "opciones": {
+        "A": "Consecuencialismo.",
+        "B": "Paternalismo.",
+        "C": "Deontologismo.",
+        "D": "Principialismo."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 75,
+      "referencia": "E75",
+      "pregunta": "Estoy cortando en el criostato una intraoperatoria que tiene mucha grasa, no soy capaz de estirar el corte y cada vez tengo más sucia la cuchilla. ¿Qué puedo hacer? Selecciona la respuesta correcta:",
+      "opciones": {
+        "A": "Limpiar la cuchilla con un paño de papel impregnado en alcohol de 70° y echarle criolab (nebulizador o spray de congelación), así también lo desinfecto.",
+        "B": "Echarle criolab (nebulizador o spray de congelación) a la cuchilla y limpiarlo con una goma de borrar o con un pincel de cerdas duras, que está dentro del criostato y volver a echar criolab.",
+        "C": "Limpiar con acetona a temperatura ambiente con un pincel.",
+        "D": "No se puede utilizar spray de congelación dentro del criostato."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 76,
+      "referencia": "E76",
+      "pregunta": "¿Cuál es el protocolo correcto para el tallado de un apéndice en anatomía patológica?",
+      "opciones": {
+        "A": "Se realiza un corte longitudinal único a lo largo del apéndice, sin incluir la punta específicamente.",
+        "B": "Se toman secciones transversales de la base y del cuerpo.",
+        "C": "Se secciona el apéndice en cortes transversales, incluyendo el cuerpo, la base y el corte longitudinal de la punta.",
+        "D": "Se corta solo la base del apéndice y se descarta el resto, para procesar la muestra."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 77,
+      "referencia": "E77",
+      "pregunta": "¿Cuál de las siguientes características debe estar presente en una sala de autopsias clínicas, clasificada como BSL-3 para manejar un caso con sospecha de un patógeno del Grupo 3, como SARS-CoV-2, según las normativas de bioseguridad?",
+      "opciones": {
+        "A": "Ventilación forzada sin filtros y acceso abierto al personal sin EPI específico.",
+        "B": "Superficies desinfectables y uso exclusivo de guantes como protección individual.",
+        "C": "Presión negativa, sistema de filtración HEPA y acceso controlado mediante doble puerta o esclusas.",
+        "D": "Mesa de autopsias con agua corriente e iluminación estándar sin requisitos adicionales de ventilación."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 78,
+      "referencia": "E78",
+      "pregunta": "Consideraciones generales y buenas prácticas en inclusión y orientación de muestras. Señala la correcta:",
+      "opciones": {
+        "A": "El tejido de congelación de las intraoperatorias se descongela y se incluye sin ninguna orientación especial.",
+        "B": "Como norma general, la cara de corte del tejido se dispondrá hacia abajo en el casete y en el molde.",
+        "C": "Cuando el tejido tiene marcados los bordes de resección o la orientación no es necesario que mantengan un orden especial.",
+        "D": "Los tejidos muy duros se ponen todos en el mismo casete, para facilitar el corte."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 79,
+      "referencia": "E79",
+      "pregunta": "¿Cuál es la solución más adecuada para la fijación y posterior descalcificación de la médula ósea?",
+      "opciones": {
+        "A": "B-5 y líquido de Perenyi.",
+        "B": "Formol y ácido clorhídrico.",
+        "C": "B-5 y líquido de Zenker.",
+        "D": "Formol y ácido nítrico."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 80,
+      "referencia": "E80",
+      "pregunta": "¿Qué significan las siglas CCO en el/la destinatario/a de un correo?",
+      "opciones": {
+        "A": "Copia de carbón oculta.",
+        "B": "Copia de correo oculta.",
+        "C": "El/la destinatario/a en copia oculta.",
+        "D": "Copia de correo ordinaria."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 81,
+      "referencia": "E81",
+      "pregunta": "Según el Sistema de París para informar la citología urinaria (TPS 2.0), si se detecta una neoplasia urotelial de bajo grado (LGUN), ¿en qué categoría de diagnóstico la situaría?",
+      "opciones": {
+        "A": "Negativo (NHGUC).",
+        "B": "Atípico (AUC).",
+        "C": "Sospechoso (SHGUC).",
+        "D": "Positivo (HGUC)."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 82,
+      "referencia": "E82",
+      "pregunta": "De los siguientes fijadores, ¿cuál actúa por formación de sales con los tejidos?",
+      "opciones": {
+        "A": "Ácido pícrico.",
+        "B": "Ácido acético.",
+        "C": "Ácido crómico.",
+        "D": "Alcohol etílico."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 83,
+      "referencia": "E83",
+      "pregunta": "Cuestiones a tener en cuenta a la hora de confeccionar los bloques. Elige la verdadera:",
+      "opciones": {
+        "A": "Cuanto más lleno de parafina mejor, lo ideal es que exceda por la parte superior del casete, así no se desprenderá el tejido ni tendrá burbujas.",
+        "B": "Los moldes deben ser del tamaño más ajustado posible, procurando que el tejido llegue bien a los bordes, o colocando los cilindros en diagonal, para gastar la menor cantidad de parafina posible y que al cortarlo entren más cortes en el portaobjetos, sin necesidad de recortar la parafina.",
+        "C": "Tomaremos el molde más grande como el de elección, para hacer todos los bloques, así no tendremos que andar escogiendo y podremos confeccionarlos mucho más rápido.",
+        "D": "El molde y las pinzas deberán estar lo suficientemente calientes pero sin quemar el tejido, para que este quede lo más superficial posible, en el mismo plano, y no hagamos contaminaciones cruzadas de laboratorio."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 84,
+      "referencia": "E84",
+      "pregunta": "De las siguientes afirmaciones, señala la incorrecta:",
+      "opciones": {
+        "A": "El almacenamiento de los materiales inflamables y explosivos debe hacerse dentro del laboratorio principal.",
+        "B": "Los instrumentos para la inclusión automática de tejidos y la confección de bloques deben estar en una habitación independiente o aislados en campanas de extracción de gases.",
+        "C": "En todo laboratorio debe existir al menos un microscopio, para controlar los resultados de los métodos de coloración utilizados.",
+        "D": "Debe disponerse de extintores adecuados al tipo de materiales inflamables acumulados."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 85,
+      "referencia": "E85",
+      "pregunta": "De las siguientes opciones, ¿cuál es la correcta con respecto a la descalcificación ósea?",
+      "opciones": {
+        "A": "Ácidos inorgánicos fuertes como el ácido sulfuroso.",
+        "B": "Ácidos inorgánicos débiles como el ácido clorhídrico.",
+        "C": "Ácidos orgánicos como el acético o el fórmico.",
+        "D": "Todas son correctas."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 86,
+      "referencia": "E86",
+      "pregunta": "Indique la concentración de la solución acuosa de ácido nítrico para la descalcificación de tejidos:",
+      "opciones": {
+        "A": "20%.",
+        "B": "10%.",
+        "C": "5%.",
+        "D": "2%."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 87,
+      "referencia": "E87",
+      "pregunta": "En estudios epidemiológicos, ¿cuál es la principal diferencia entre odds ratio y riesgo relativo?",
+      "opciones": {
+        "A": "El odds ratio se utiliza en estudios de cohortes y el riesgo relativo en casos y controles.",
+        "B": "El riesgo relativo evalúa la probabilidad de un evento en un grupo frente a otro, mientras que el odds ratio compara dos grupos.",
+        "C": "El odds ratio mide la probabilidad de un evento en un grupo frente a otro, mientras que el riesgo relativo compara la frecuencia de un evento entre dos grupos.",
+        "D": "Entre el odds ratio y el riesgo relativo no hay diferencias."
+      },
+      "respuesta_correcta": null,
+      "es_reserva": false,
+      "estado_respuesta": "anulada_por_plantilla_definitiva"
+    },
+    {
+      "numero": 88,
+      "referencia": "E88",
+      "pregunta": "Si un/a técnico/a de anatomía patológica desconoce el funcionamiento de un equipo de inmunohistoquímica y esto resulta en un error en los resultados, ¿cómo se clasifica?",
+      "opciones": {
+        "A": "Impericia.",
+        "B": "Imprudencia.",
+        "C": "Negligencia técnica.",
+        "D": "Negligencia documental."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 89,
+      "referencia": "E89",
+      "pregunta": "¿Cuál es la principal diferencia entre la certificación y la acreditación en un laboratorio de anatomía patológica?",
+      "opciones": {
+        "A": "La certificación asegura la competencia técnica para realizar actividades, mientras que la acreditación verifica la adecuación documental a la norma ISO 9001.",
+        "B": "La certificación es un título de reconocimiento emitido por una empresa acreditada, mientras que la acreditación es una declaración de competencia técnica emitida por un Organismo de Acreditación.",
+        "C": "La acreditación solo se aplica a procedimientos administrativos, mientras que la certificación se aplica a procedimientos técnicos.",
+        "D": "La certificación es un proceso obligatorio, mientras que la acreditación es opcional."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 90,
+      "referencia": "E90",
+      "pregunta": "Son funciones del técnico según el currículo formativo:",
+      "opciones": {
+        "A": "Gestionar una unidad de un laboratorio de anatomía patológica y citología.",
+        "B": "Aplicar técnicas de inmunohistoquímica, inmunofluorescencia y biología molecular, bajo la supervisión del facultativo.",
+        "C": "Realizar la selección y aproximación diagnóstica de citologías de líquidos y secreciones corporales, improntas y muestras no ginecológicas obtenidas por punción, bajo la supervisión del facultativo.",
+        "D": "Todas son funciones del técnico de anatomía patológica."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 91,
+      "referencia": "E91",
+      "pregunta": "Con respecto a la microtomía y preparación de la sección en parafina, escoja la verdadera:",
+      "opciones": {
+        "A": "Se usará agua destilada a 60 °C cuando los cortes sean para inmunohistoquímica o histoquímica.",
+        "B": "Coloque las secciones con el lado liso (brillante) hacia arriba, en el baño de flotación.",
+        "C": "Cuanto más fríos estén los bloques, mejor, preferiblemente a más de -15°.",
+        "D": "Algunas muestras delicadas obtendrán mejores resultados estufándolas a 37° durante más tiempo."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 92,
+      "referencia": "E92",
+      "pregunta": "¿Quién es considerado el padre de la epidemiología?",
+      "opciones": {
+        "A": "Louis Pasteur.",
+        "B": "Robert Koch.",
+        "C": "John Snow.",
+        "D": "Edward Jenner."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 93,
+      "referencia": "E93",
+      "pregunta": "Según la OMS, ¿qué no es recomendable realizar en una antisepsia?",
+      "opciones": {
+        "A": "La técnica con agua y jabón.",
+        "B": "Usar jabón antiséptico.",
+        "C": "Usar cepillos y esponja.",
+        "D": "Lavado mediante fregado de la piel con la solución antiséptica elegida."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 94,
+      "referencia": "E94",
+      "pregunta": "El decreto, actualmente en vigor, que regula los residuos sanitarios de Galicia es:",
+      "opciones": {
+        "A": "El Decreto 255/2003, de 26 de febrero, de residuos sanitarios de Galicia.",
+        "B": "El Decreto 38/2015 de 26 de febrero, de residuos sanitarios de Galicia.",
+        "C": "El Decreto 28/2016 de 26 de febrero, de residuos sanitarios de Galicia.",
+        "D": "Ninguna respuesta es correcta."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 95,
+      "referencia": "E95",
+      "pregunta": "¿Qué aditivos se añaden a la parafina pura para que mejore sus características? Indique la falsa:",
+      "opciones": {
+        "A": "Polímeros plásticos.",
+        "B": "DMSO.",
+        "C": "Cera de abejas.",
+        "D": "Gelatina."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 96,
+      "referencia": "E96",
+      "pregunta": "¿Qué método de tinción utiliza plata metenamina?",
+      "opciones": {
+        "A": "Warthin-Starry.",
+        "B": "Fite.",
+        "C": "Grocott.",
+        "D": "Levaditi."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 97,
+      "referencia": "E97",
+      "pregunta": "De las siguientes afirmaciones, ¿cuáles son daños para la salud del formaldehído?",
+      "opciones": {
+        "A": "Puede provocar cáncer, se relaciona con el cáncer nasofaríngeo, seno nasal, leucemia mieloide y pulmonar.",
+        "B": "Mutágeno: se sospecha que provoca defectos genéticos.",
+        "C": "El formol es alérgeno, tiene acción sensibilizante.",
+        "D": "Todas son ciertas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 98,
+      "referencia": "E98",
+      "pregunta": "Respecto a las fibras colágenas, señale la correcta:",
+      "opciones": {
+        "A": "Se tiñen con orceína.",
+        "B": "Se tiñen con PAS.",
+        "C": "Se tiñen con Picro-fucsina de Van Gieson.",
+        "D": "Ninguna es cierta."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 99,
+      "referencia": "E99",
+      "pregunta": "Los residuos sanitarios biocontaminados, que requieren una gestión diferenciada tanto en el interior de los centros como en el exterior, en todas las etapas de la gestión se incluyen dentro de la Clase:",
+      "opciones": {
+        "A": "Clase II.",
+        "B": "Clase III.",
+        "C": "Clase V.",
+        "D": "Clase VI."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 100,
+      "referencia": "E100",
+      "pregunta": "En el servicio de anatomía patológica, en relación a la seguridad con el formaldehído, señale la falsa:",
+      "opciones": {
+        "A": "La retirada inmediata de los derrames y en el caso de que sean importantes, neutralización con un neutralizante específico para formol o con bisulfito sódico y recogida posterior.",
+        "B": "La utilización de paños neutralizantes de formol (alfombrillas absorbentes con permanganato potásico) como superficie de tallado o en zonas donde puedan producirse derrames.",
+        "C": "Retirada sin demora de los papeles de filtro impregnados de formol en la mesa de tallado.",
+        "D": "Si se recibe una muestra en fresco, en un vaso de orina (envase de plástico transparente de tapa roja), con la etiqueta de identificación del paciente, se llenará de formol en la mesa de tallado. No hace falta que se etiquete con ninguna etiqueta de seguridad."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 101,
+      "referencia": "E101",
+      "pregunta": "El radical químico que se añade a un grupo cromógeno y lo convierte en colorante es un:",
+      "opciones": {
+        "A": "Colorante.",
+        "B": "Anillo cromático.",
+        "C": "Auxocromo.",
+        "D": "Cromóforo."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 102,
+      "referencia": "E102",
+      "pregunta": "¿Cuál de los siguientes pasos no es imprescindible en la tinción de Diff-Quick?",
+      "opciones": {
+        "A": "Deshidratación.",
+        "B": "Fijación.",
+        "C": "Montaje con cubreobjetos.",
+        "D": "Lavar con agua."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 103,
+      "referencia": "E103",
+      "pregunta": "¿Cuál de los siguientes procesos no forma parte de los pasos de los ciclos de amplificación de la PCR?",
+      "opciones": {
+        "A": "Alineamiento.",
+        "B": "Extensión o elongación.",
+        "C": "Desnaturalización.",
+        "D": "Electroforesis."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 104,
+      "referencia": "E104",
+      "pregunta": "Las infecciones causadas por la entidad Leptothrix corresponden a:",
+      "opciones": {
+        "A": "Parásitos con forma de gusano.",
+        "B": "Hongos filamentosos similares al bacilo de Döderlein.",
+        "C": "Protozoos.",
+        "D": "Bacterias."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 105,
+      "referencia": "E105",
+      "pregunta": "¿Es posible realizar estudios moleculares en muestras de citología teñidas en Papanicolaou?",
+      "opciones": {
+        "A": "Sí, las muestras teñidas con Papanicolaou están fijadas, por lo que los ácidos nucleicos están preservados.",
+        "B": "No, las citologías ya están montadas y el medio de montaje afecta a la PCR.",
+        "C": "Sí, siempre y cuando fuesen procesadas en las últimas dos semanas.",
+        "D": "No, puesto que las citologías almacenadas en el archivo poseen una alta oxidación que afecta a los ácidos nucleicos."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 106,
+      "referencia": "E106",
+      "pregunta": "¿Con qué tipo de microscopio puedo ver la birrefringencia verde de la amiloidosis después de teñirlo con rojo Congo?",
+      "opciones": {
+        "A": "Microscopio de fluorescencia.",
+        "B": "Microscopio de contraste de fases.",
+        "C": "Microscopio de interferencia.",
+        "D": "Microscopio de polarización."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 107,
+      "referencia": "E107",
+      "pregunta": "¿Cómo se toma la muestra por cepillado o brushing de fosa nasal?",
+      "opciones": {
+        "A": "El cepillo se friega sobre el producto obtenido del raspado nasal.",
+        "B": "El cepillo se introduce en la fosa nasal y se friega contra la mucosa.",
+        "C": "El cepillo se introduce en un medio acuoso mezclado con el producto obtenido de sonarse la nariz.",
+        "D": "El cepillo se friega directamente sobre el pañuelo donde está el producto."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 108,
+      "referencia": "E108",
+      "pregunta": "Un laboratorio de anatomía patológica recibe una muestra de médula ósea con infiltración tumoral y áreas de fibrosis densa, que debe ser procesada para un estudio combinado de histomorfología (tinción de Giemsa) y análisis inmunohistoquímico (detección de CD34). El técnico debe elegir un método de inclusión que optimice la preservación estructural y la antigenicidad, considerando las limitaciones de cada técnica. ¿Cuál de las siguientes opciones es la más adecuada y por qué?",
+      "opciones": {
+        "A": "Infiltración en parafina tras descalcificación con EDTA, ya que permite cortes de 2-6 µm, es compatible con Giemsa y preserva antígenos para CD34 tras recuperación antigénica con calor.",
+        "B": "Celoidina con endurecimiento en cloroformo, porque su alta viscosidad estabiliza la fibrosis densa y la médula ósea, ofreciendo cortes de 15-20 µm ideales para Giemsa, sin necesidad de descalcificación.",
+        "C": "Resinas plásticas (metacrilato de metilo), debido a su capacidad para cortes ultrafinos de 1-3 µm y su resistencia a la deformación, aunque requiere protocolos de tinción modificados y elimina la antigenicidad de CD34.",
+        "D": "Gelatina al 10% con congelación posterior, ya que su baja dureza facilita la impregnación de tejidos blandos y preserva antígenos nativos para inmunohistoquímica, siendo compatible con Giemsa tras disolución."
+      },
+      "respuesta_correcta": "A",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 109,
+      "referencia": "E109",
+      "pregunta": "¿Cuál es la técnica de apertura de autopsia llamada en \"T\", de hombro derecho a hombro izquierdo, pasando por la parte inferior de las clavículas y por encima del manubrio?",
+      "opciones": {
+        "A": "Técnica de Letulle.",
+        "B": "Técnica de Virchow modificada.",
+        "C": "Técnica de Mata.",
+        "D": "Técnica de Rokitansky."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 110,
+      "referencia": "E110",
+      "pregunta": "¿Cómo se tiñen las células infectadas por el virus de la hepatitis B con la Orceína de Shikata?",
+      "opciones": {
+        "A": "Amarillo-pardo.",
+        "B": "Verde-azul.",
+        "C": "Pardo-negro.",
+        "D": "Rojo-amarillo."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    }
+  ],
+  "parte_comun": [
+    {
+      "numero": 1,
+      "referencia": "C1",
+      "pregunta": "Según la Ley General de Sanidad, en lo que respecta a las competencias de las Administraciones Públicas:",
+      "opciones": {
+        "A": "Es competencia del Estado la sanidad exterior y las actividades y funciones de sanidad exterior se regularán por ley.",
+        "B": "Es competencia de las Comunidades Autónomas la sanidad exterior y las actividades y funciones de sanidad exterior se regularán por ley.",
+        "C": "Es competencia del Estado la sanidad exterior y las actividades y funciones de sanidad exterior se regularán por real decreto.",
+        "D": "Es competencia de las Comunidades Autónomas la sanidad exterior y las actividades y funciones de sanidad exterior se regularán por real decreto."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 2,
+      "referencia": "C2",
+      "pregunta": "Según el Decreto 206/2005, ¿qué porcentaje de la puntuación total de un proceso de concurso-oposición puede representar la fase de concurso?",
+      "opciones": {
+        "A": "No puede superar el 20% de la puntuación total.",
+        "B": "No puede superar el 40% de la puntuación total.",
+        "C": "Puede representar hasta el 50% de la puntuación total.",
+        "D": "No hay un límite establecido en la normativa."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 3,
+      "referencia": "C3",
+      "pregunta": "¿Qué establece el artículo 43 de la Constitución Española sobre la protección de la salud?",
+      "opciones": {
+        "A": "Que la protección de la salud es un derecho fundamental de la ciudadanía.",
+        "B": "Que compete exclusivamente a las Comunidades Autónomas garantizar la sanidad pública.",
+        "C": "Que los poderes públicos deben garantizar la salud mediante medidas preventivas y prestaciones necesarias.",
+        "D": "Que la sanidad pública solo debe atender a las personas con nacionalidad española y a las extranjeras de países que hayan firmado tratados recíprocos con España."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 4,
+      "referencia": "C4",
+      "pregunta": "De acuerdo con la sección de derechos fundamentales y libertades públicas de la Constitución Española de 1978, ¿cuál de las siguientes opciones es correcta?",
+      "opciones": {
+        "A": "Se reconoce el derecho a la protección de la salud.",
+        "B": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada.",
+        "C": "Los poderes públicos aseguran, asimismo, la protección integral de los hijos, iguales estos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil. La ley posibilitará la investigación de la paternidad.",
+        "D": "Todas las opciones anteriores son falsas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 5,
+      "referencia": "C5",
+      "pregunta": "¿En qué año se aprobó el Estatuto de Autonomía de Galicia?",
+      "opciones": {
+        "A": "1978.",
+        "B": "1981.",
+        "C": "1989.",
+        "D": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 6,
+      "referencia": "C6",
+      "pregunta": "Según el artículo 33 de la Ley de Salud de Galicia, ¿cuál de las siguientes afirmaciones es correcta sobre las autoridades sanitarias?",
+      "opciones": {
+        "A": "La autoridad sanitaria en Galicia se limita al Consello de la Xunta y a la Consellería de Sanidad, sin incluir a las administraciones locales ni a profesionales sanitarios.",
+        "B": "Solo el personal sanitario con funciones de vigilancia epidemiológica puede ser considerado autoridad sanitaria, y únicamente en situaciones de crisis sanitaria declaradas o epidemias.",
+        "C": "Son autoridades sanitarias el Consello de la Xunta, la persona titular de la Consellería de Sanidad, las jefaturas territoriales de sanidad, las alcaldías y el personal de inspección, quien puede adoptar medidas para garantizar los derechos sanitarios, solicitar apoyo de las fuerzas de seguridad y exigir colaboración ciudadana en caso de crisis sanitaria.",
+        "D": "La Consellería de Sanidad es la única entidad con competencias para establecer intervenciones sanitarias, y las alcaldías solo pueden actuar si reciben autorización expresa de la Xunta de Galicia."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 7,
+      "referencia": "C7",
+      "pregunta": "Según la Ley 3/2001 de Galicia, ¿quién tiene principalmente la responsabilidad de garantizar el derecho a la información de la persona paciente, previa al consentimiento?",
+      "opciones": {
+        "A": "El centro sanitario.",
+        "B": "El personal de enfermería.",
+        "C": "El médico responsable de la persona paciente.",
+        "D": "La Comisión de Consentimiento Informado."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 8,
+      "referencia": "C8",
+      "pregunta": "¿Cuál de los siguientes criterios no se describe para la clasificación del personal estatutario según el artículo 5 del Estatuto Marco?",
+      "opciones": {
+        "A": "La función desarrollada dentro del servicio de salud.",
+        "B": "El nivel del título exigido para el ingreso.",
+        "C": "La antigüedad acumulada en el desempeño del puesto.",
+        "D": "El tipo de nombramiento recibido."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 9,
+      "referencia": "C9",
+      "pregunta": "¿Por qué tipo de norma se aprobó el vigente Estatuto de Autonomía de Galicia?",
+      "opciones": {
+        "A": "Real decreto.",
+        "B": "Orden de las Cortes Generales.",
+        "C": "Ley orgánica.",
+        "D": "Ley."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 10,
+      "referencia": "C10",
+      "pregunta": "Según el Capítulo V de la Ley 31/1995, a través de qué figura se canaliza principalmente la participación especializada de las personas trabajadoras en materia de prevención de riesgos en empresas o centros de trabajo que cuenten con seis o más trabajadores/as?",
+      "opciones": {
+        "A": "El Comité de Empresa.",
+        "B": "Los representantes sindicales.",
+        "C": "Los delegados de prevención.",
+        "D": "El servicio de prevención propio o ajeno."
+      },
+      "respuesta_correcta": "C",
+      "es_reserva": false,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 11,
+      "referencia": "C11",
+      "pregunta": "De acuerdo con el Capítulo III de la Ley 31/1995 ¿cuál de las siguientes opciones es falsa en materia de prevención de riesgos laborales?",
+      "opciones": {
+        "A": "El personal tiene derecho a la vigilancia periódica de su estado de salud.",
+        "B": "El personal tiene derecho a recibir una compensación económica por los riesgos inherentes a su puesto de trabajo.",
+        "C": "El empleador deberá combatir los riesgos en su origen.",
+        "D": "El empresario deberá evaluar los riesgos que no se puedan evitar."
+      },
+      "respuesta_correcta": "B",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    },
+    {
+      "numero": 12,
+      "referencia": "C12",
+      "pregunta": "En relación con los procedimientos de provisión de plazas del personal estatutario fijo del SERGAS, ¿cuál de las siguientes afirmaciones es la correcta?",
+      "opciones": {
+        "A": "El concurso de traslados es el procedimiento habitual para la provisión temporal de plazas.",
+        "B": "La comisión de servicios permite ocupar temporalmente un puesto de trabajo por necesidades del servicio o por motivos personales, sin reserva del puesto de origen.",
+        "C": "El reingreso al servicio activo solo puede producirse mediante la participación en un proceso selectivo de nuevo acceso.",
+        "D": "Todas las opciones anteriores son falsas."
+      },
+      "respuesta_correcta": "D",
+      "es_reserva": true,
+      "estado_respuesta": "plantilla_definitiva_SERGAS_2025"
+    }
+  ],
+  "anuladas_especifica": [
+    3,
+    15,
+    29,
+    56,
+    87
+  ],
+  "reservas_activadas_especifica": {
+    "3": 101,
+    "15": 102,
+    "29": 103,
+    "56": 104,
+    "87": 105
+  },
+  "nota_reservas": "Se aplica a efectos de práctica la sustitución secuencial de las cinco anuladas por las cinco primeras de reserva. La plantilla lista claves y anulaciones, sin especificar expresamente en la tabla la correspondencia entre ambas.",
+  "formato": "ana-galicia-2025-es-v1"
+}

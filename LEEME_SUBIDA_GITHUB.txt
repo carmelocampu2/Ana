@@ -1,0 +1,40 @@
+ANA · INCORPORACIÓN DE GALICIA 2025 EN CASTELLANO
+================================================
+
+1. Entra en https://github.com/carmelocampu2/Ana
+2. Sube a la RAÍZ del repositorio estos cinco archivos (los cinco están en este ZIP):
+   - examenes-oficiales.html  [REEMPLAZA el existente: añade enlace directo al nuevo examen]
+   - galicia-2025.html        [NUEVO: página de examen interactivo]
+   - galicia-2025.js          [NUEVO: lógica de preguntas, respuestas y corrección]
+   - galicia-2025.json        [NUEVO: 122 preguntas y claves]
+   - Galicia_2025_Examen_Castellano_Plantilla_Definitiva.pdf [NUEVO: cuestionario y plantilla]
+3. Confirma los cambios con un único commit en GitHub.
+4. En la aplicación: Exámenes oficiales > Galicia · SERGAS · 2025 > Abrir examen interactivo.
+
+NO ELIMINAR:
+No debes borrar ni sustituir examenes-oficiales.json, examenes-oficiales.js,
+questions.json, app.js ni ningún archivo de otros exámenes.
+
+CONTENIDO:
+- Parte específica E1-E100: 100 preguntas principales; E101-E110: 10 reservas.
+- Parte común C1-C10: 10 preguntas principales; C11-C12: 2 reservas.
+- Plantilla definitiva SERGAS 16/07/2025 (letras y anulaciones).
+- Anuladas en parte específica: E3, E15, E29, E56, E87.
+- Se aplican en la simulación E101, E102, E103, E104, E105, por orden,
+  para las anuladas anteriores. Esta correspondencia se infiere de la
+  secuencia de reserva; no aparece expresada como correspondencia en la tabla.
+- Corrección de la parte específica: 100 preguntas computables; común: 10.
+- Puntuación orientativa: +0,50 acierto, -0,125 error, 0 blanco.
+- Se guardan las respuestas del ejercicio actual en el navegador sin
+  borrar sesiones de otros exámenes de la aplicación.
+
+ADVERTENCIA:
+La transcripción y traducción proceden del Word aportado por el usuario;
+no se han cotejado íntegramente con las páginas originales en gallego.
+La plantilla definitiva y las anulaciones sí se han copiado del PDF SERGAS.
+No se modificó el archivo base de preguntas oficiales para evitar
+riesgos a los exámenes preexistentes.
+
+SI SIGUE APARECIENDO UNA PÁGINA ANTIGUA:
+Abre el enlace completo desde el navegador y recarga. Se conserva el
+progreso local; no se borra ningún archivo de datos anterior.
